@@ -1,0 +1,54 @@
+# source_program
+  SRCS =   src/saturn.c \
+		src/workarea.c \
+		src/scr_xrick.c \
+		src/scr_pause.c \
+		src/scr_imain.c \
+		src/scr_imap.c \
+		src/scr_gameover.c \
+		src/scr_getname.c \
+		src/dat_picsST.c \
+		src/dat_screens.c \
+		src/dat_tilesST.c \
+		src/dat_maps.c \
+		src/dat_ents.c \
+		src/dat_spritesST.c \
+		src/ents.c \
+		src/e_bullet.c \
+		src/e_bomb.c \
+		src/e_rick.c \
+		src/e_sbonus.c \
+		src/e_them.c \
+		src/e_bonus.c \
+		src/e_box.c \
+		src/rects.c \
+		src/util.c \
+		src/xrick.c \
+		src/draw.c \
+		src/maps.c \
+		src/sysvid.c \
+		src/syskbd.c \
+		src/control.c \
+		src/system.c \
+		src/scroller.c \
+		src/sysevt.c \
+		src/syssnd.c \
+		src/dat_snd.c\
+		src/game.c 
+
+#src/workarea.c \
+#SYSOBJS = $(SGLLDR)/sglarea.o 
+OBJS =  $(SRCS:.c=.o)  
+#raze/raze.o
+LIBS =             l:/saturn/SBL6/SEGALIB/GFS/elf/gfs2.o \
+            l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_cdb2.o \
+            l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_cdc2.o \
+            l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_cdf2.o \
+            l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_trn2.o \
+            l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_buf2.o \
+            l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_dir2.o \
+  L:/saturn/dev/sms_asm3/cdc/cdcrep.a \
+    C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A 
+#    L:/saturn/dev/xrickm/src/libsglrep_elf.a 
+#  C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A 
+#L:/saturn/dev/phoenix/ELF/LIBSGL.A\

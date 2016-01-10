@@ -1,0 +1,183 @@
+Disc    CDROM SL.DSK
+
+LeadIn MODE1
+PostGap 150
+EndTrack
+
+Track MODE1
+	Pause 150     
+	Volume ISO9660 sl.DSK
+
+	SystemArea "ip.bin" ; emplacement 0-2 extraction avec des blocs de 2048 , taille ip 1er fichier - 19
+	
+	PrimaryVolume
+
+	SystemIdentifier        "SEGA SEGASATURN"
+	VolumeIdentifier        "SL"
+	VolumeSetIdentifier     "SL"
+	LogicalBlockSize        2048
+	PublisherIdentifier     "SEGA ENTERPRISES, LTD."
+	DataPreparerIdentifier  "SEGA ENTERPRISES, LTD."
+	ApplicationIdentifier   "SL"
+	CopyrightFileIdentifier "CPY.TXT"
+	AbstractFileIdentifier  "ABS.TXT"
+	BibliographicFileIdentifier  "BIB.TXT"
+
+	Lpath               ; Path tables as specified for Saturn
+	Mpath
+	
+	Hierarchy
+		File    00000SL.BIN;1
+			Source .\SL.BIN
+		EndFile
+
+		File    ABS.TXT;1
+			Source .\ABS.TXT
+		EndFile
+
+		File    BIB.TXT;1
+			Source .\BIB.TXT
+		EndFile
+
+		File    CPY.TXT;1
+			Source .\CPY.TXT
+		EndFile
+
+		File    SDDRVS.TSK;1
+			Source .\SDDRVS.TSK
+		EndFile
+
+		Directory SOUNDS
+
+		 FILE    BOX.WAV;1
+			SOURCE .\SOUNDS\BOX.WAV
+		ENDFILE
+
+		 FILE    BULLET.WAV;1
+			SOURCE .\SOUNDS\BULLET.WAV
+		ENDFILE
+
+		 FILE    CRAWL.WAV;1
+			SOURCE .\SOUNDS\CRAWL.WAV
+		ENDFILE
+
+		 FILE    DIE.WAV;1
+			SOURCE .\SOUNDS\DIE.WAV
+		ENDFILE
+
+		 FILE    ENT0.WAV;1
+			SOURCE .\SOUNDS\ENT0.WAV
+		ENDFILE
+
+		 FILE    ENT1.WAV;1
+			SOURCE .\SOUNDS\ENT1.WAV
+		ENDFILE
+
+		 FILE    ENT2.WAV;1
+			SOURCE .\SOUNDS\ENT2.WAV
+		ENDFILE
+
+		 FILE    ENT3.WAV;1
+			SOURCE .\SOUNDS\ENT3.WAV
+		ENDFILE
+
+		 FILE    ENT4.WAV;1
+			SOURCE .\SOUNDS\ENT4.WAV
+		ENDFILE
+
+		 FILE    ENT5.WAV;1
+			SOURCE .\SOUNDS\ENT5.WAV
+		ENDFILE
+
+		 FILE    ENT6.WAV;1
+			SOURCE .\SOUNDS\ENT6.WAV
+		ENDFILE
+
+		 FILE    ENT7.WAV;1
+			SOURCE .\SOUNDS\ENT7.WAV
+		ENDFILE
+
+		 FILE    ENT8.WAV;1
+			SOURCE .\SOUNDS\ENT8.WAV
+		ENDFILE
+
+		 FILE    EXPLODE.WAV;1
+			SOURCE .\SOUNDS\EXPLODE.WAV
+		ENDFILE
+
+		 FILE    GAMEOVER.WAV;1
+			SOURCE .\SOUNDS\GAMEOVER.WAV
+		ENDFILE
+
+		 FILE    JUMP.WAV;1
+			SOURCE .\SOUNDS\JUMP.WAV
+		ENDFILE
+
+		 FILE    PAD.WAV;1
+			SOURCE .\SOUNDS\PAD.WAV
+		ENDFILE
+
+		 FILE    SBONUS1.WAV;1
+			SOURCE .\SOUNDS\SBONUS1.WAV
+		ENDFILE
+
+		 FILE    SBONUS2.WAV;1
+			SOURCE .\SOUNDS\SBONUS2.WAV
+		ENDFILE
+
+		 FILE    STICK.WAV;1
+			SOURCE .\SOUNDS\STICK.WAV
+		ENDFILE
+
+		 FILE    WALK.WAV;1
+			SOURCE .\SOUNDS\WALK.WAV
+		ENDFILE
+
+		 FILE    BONUS.WAV;1
+			SOURCE .\SOUNDS\BONUS.WAV
+		ENDFILE
+
+		 FILE    BOMBSHHT.WAV;1
+			SOURCE .\SOUNDS\BOMBSHHT.WAV
+		ENDFILE
+
+		 FILE    SEGA.WAV;1
+			SOURCE .\SOUNDS\SEGA.WAV
+		ENDFILE
+
+		 FILE    TUNE0.WAV;1
+			SOURCE .\SOUNDS\TUNE0.WAV
+		ENDFILE
+
+		 FILE    TUNE1.WAV;1
+			SOURCE .\SOUNDS\TUNE1.WAV
+		ENDFILE
+
+		 FILE    TUNE2.WAV;1
+			SOURCE .\SOUNDS\TUNE2.WAV
+		ENDFILE
+
+		 FILE    TUNE3.WAV;1
+			SOURCE .\SOUNDS\TUNE3.WAV
+		ENDFILE
+
+		 FILE    TUNE4.WAV;1
+			SOURCE .\SOUNDS\TUNE4.WAV
+		ENDFILE		
+
+		 FILE    TUNE5.WAV;1
+			SOURCE .\SOUNDS\TUNE5.WAV
+		ENDFILE
+
+		EndDirectory
+
+	EndHierarchy
+EndPrimaryVolume
+EndVolume
+PostGap 150
+EndTrack
+
+Leadout CDDA
+ Empty  500
+EndTrack
+EndDisc

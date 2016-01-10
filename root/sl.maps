@@ -1,0 +1,1909 @@
+Archive member included because of file (symbol)
+
+L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_bif.o)
+                              l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_cdc2.o (CDC_CalActSiz)
+L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_bio.o)
+                              l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_cdc2.o (CDC_MoveSctData)
+L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_cfs.o)
+                              l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_cdc2.o (CDC_AbortFile)
+L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_cmn.o)
+                              l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_cdc2.o (CDC_GetSes)
+L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_dev.o)
+                              l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_cdc2.o (CDC_CdSetCon)
+L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_drv.o)
+                              l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_cdc2.o (CDC_CdSeek)
+L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_reg.o)
+                              l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_cdb2.o (CDC_GetDataPtr)
+L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_sel.o)
+                              l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_cdc2.o (CDC_ResetSelector)
+L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_sub.o)
+                              L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_cmn.o) (CDSUB_RspToCdstat)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB001.o)
+                              src/sysvid.o (slTVOn)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB002.o)
+                              src/saturn.o (slColRAMMode)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB015.o)
+                              src/saturn.o (slScrAutoDisp)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB061.o)
+                              src/saturn.o (slBMPalette)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB071.o)
+                              src/saturn.o (slScrPosNbg1)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB200.o)
+                              src/saturn.o (slCharNbg1)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglD20.o)
+                              src/saturn.o (DMA_ScuInit)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglF15.o)
+                              src/saturn.o (slInitBitMap)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglF16.o)
+                              src/saturn.o (slBitMapBase)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglF27.o)
+                              src/sysvid.o (slBMPut)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglG00.o)
+                              src/saturn.o (slInitSound)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglG02.o)
+                              src/saturn.o (slDSPOff)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglG21.o)
+                              src/syssnd.o (slPCMOn)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglG22.o)
+                              src/saturn.o (slPCMOff)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglG25.o)
+                              src/saturn.o (slPCMStat)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglH00.o)
+                              src/saturn.o (Smpc_Peripheral)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglH02.o)
+                              C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglH00.o) (smpc_pfr_tbl)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglH04.o)
+                              C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglH00.o) (slComPrmIntBack)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglI01.o)
+                              src/game.o (slSynch)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglIc0.o)
+                              src/saturn.o (slInitSystem)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ00.o)
+                              C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglIc0.o) (InitSlaveSH)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ01.o)
+                              C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglIc0.o) (SlaveControl)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ02.o)
+                              C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ01.o) (sbMakePolygon)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ03.o)
+                              C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ01.o) (sbMakeDMATable)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ04.o)
+                              C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ01.o) (sbMakeSprite)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ05.o)
+                              C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ01.o) (sbSortEntry)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglK01.o)
+                              C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglIc0.o) (SynchCount)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglM01.o)
+                              C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ02.o) (DepthWorkArea)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglA00.o)
+                              C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglIc0.o) (_builtin_set_imask)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglA20.o)
+                              C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglIc0.o) (slInitMatrix)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB000.o)
+                              C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglIc0.o) (slInitScroll)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB010.o)
+                              C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglF15.o) (slBitMapNbg0)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB011.o)
+                              C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglF15.o) (slBitMapNbg1)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB012.o)
+                              C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglF15.o) (slBitMapRbg0)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB035.o)
+                              C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB200.o) (rbank_set)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglC00.o)
+                              C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglIc0.o) (slInitSprite)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglD00.o)
+                              C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglG00.o) (slDMACopy)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglD01.o)
+                              C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglG00.o) (slDMAXCopy)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglD02.o)
+                              C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglG00.o) (slDMAWait)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglF25.o)
+                              C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglF27.o) (GetBox)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglI00.o)
+                              C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglIc0.o) (slInitInterrupt)
+C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglH03.o)
+                              C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglI00.o) (slSmpcIntBack)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_ashiftrt.o)
+                              L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_drv.o) (__ashiftrt_r4_8)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_ashiftrt_n.o)
+                              src/saturn.o (__ashrsi3)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_ashiftlt.o)
+                              src/saturn.o (__ashlsi3)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_movmem.o)
+                              src/saturn.o (__movmemSI24)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_add_sub_sf3.o)
+                              src/saturn.o (__addsf3)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_mulsf3.o)
+                              src/saturn.o (__mulsf3)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_divsf3.o)
+                              src/saturn.o (__divsf3)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_fixunssfsi.o)
+                              src/saturn.o (__fixunssfsi)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_floatunssisf.o)
+                              src/saturn.o (__floatunsisf)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_floatsisf.o)
+                              src/saturn.o (__floatsisf)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc-Os-4-200.a(udivsi3_i4i-Os-4-200.o)
+                              src/saturn.o (__sdivsi3_i4i)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-malloc.o)
+                              src/saturn.o (malloc)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-mallocr.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-malloc.o) (_malloc_r)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-memcpy.o)
+                              l:/saturn/SBL6/SEGALIB/GFS/elf/gfs2.o (memcpy)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-memset.o)
+                              l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_dir2.o (memset)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-mlock.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-mallocr.o) (__malloc_lock)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-sbrkr.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-mallocr.o) (_sbrk_r)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-sprintf.o)
+                              src/scr_imain.o (sprintf)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-strcpy.o)
+                              src/saturn.o (strcpy)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-strlen.o)
+                              src/saturn.o (strlen)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-strncmp.o)
+                              src/saturn.o (strncmp)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-strncpy.o)
+                              src/saturn.o (strncpy)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-svfprintf.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-sprintf.o) (_svfprintf_r)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-syscalls.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-sbrkr.o) (_sbrk)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-toupper.o)
+                              src/saturn.o (toupper)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-trap.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-syscalls.o) (__trap34)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-abort.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-syscalls.o) (abort)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-ctype_.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-toupper.o) (__ctype_ptr__)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-dtoa.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-svfprintf.o) (_dtoa_r)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-freer.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-malloc.o) (_free_r)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-impure.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-malloc.o) (_impure_ptr)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-locale.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-svfprintf.o) (_localeconv_r)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-memchr.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-svfprintf.o) (memchr)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-mprec.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-dtoa.o) (_Balloc)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-s_fpclassify.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-svfprintf.o) (__fpclassifyd)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-signal.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-abort.o) (raise)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-signalr.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-signal.o) (_kill_r)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-strcmp.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-locale.o) (strcmp)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-svfiprintf.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-svfprintf.o) (__ssprint_r)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-callocr.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-mprec.o) (_calloc_r)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-memmove.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-svfiprintf.o) (memmove)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-reallocr.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-svfiprintf.o) (_realloc_r)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_lshiftrt.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-dtoa.o) (__lshrsi3)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_nedf2.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-svfprintf.o) (__nedf2)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_gtdf2t.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-svfprintf.o) (__gtdf2t)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_gedf2f.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-dtoa.o) (__gedf2f)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_muldf3.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-dtoa.o) (__muldf3)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_add_sub_df3.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-dtoa.o) (__subdf3)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_divdf3.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-dtoa.o) (__divdf3)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_fixdfsi.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-dtoa.o) (__fixdfsi)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_floatunssidf.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-dtoa.o) (__floatunsidf)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_floatsidf.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-dtoa.o) (__floatsidf)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_udivdi3.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-svfprintf.o) (__udivdi3)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_umoddi3.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-svfprintf.o) (__umoddi3)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_udiv_qrnnd_16.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_udivdi3.o) (__udiv_qrnnd_16)
+l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_clz.o)
+                              l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_udivdi3.o) (__clz_tab)
+
+Allocating common symbols
+Common symbol       size              file
+
+WAV_DDDING          0x4               src/dat_snd.o
+WAV_BOX             0x4               src/dat_snd.o
+WAV_ENTITY          0x28              src/game.o
+dir_name            0x300             src/saturn.o
+sysvid_fb           0x4               src/sysvid.o
+RemainEvent         0x4               src/workarea.o
+map_map             0x580             src/maps.o
+WAV_STICK           0x4               src/game.o
+map_eflg            0x100             src/maps.o
+WAV_BONUS           0x4               src/dat_snd.o
+WAV_CRAWL           0x4               src/game.o
+WAV_WALK            0x4               src/dat_snd.o
+WAV_SBONUS2         0x4               src/game.o
+WAV_SEGA            0x4               src/dat_snd.o
+gfs_mng_ptr         0x4               l:/saturn/SBL6/SEGALIB/GFS/elf/gfs2.o
+e_bullet_yc         0x2               src/e_bullet.o
+e_bomb_xc           0x1               src/e_bomb.o
+WAV_BOMBSHHT        0x4               src/dat_snd.o
+gfcf_fad            0x4               l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_cdf2.o
+WAV_SBONUS1         0x4               src/game.o
+WAV_JUMP            0x4               src/dat_snd.o
+map_frow            0x1               src/maps.o
+draw_tllst          0x4               src/draw.o
+e_bomb_lethal       0x1               src/e_bomb.o
+WAV_SHHT            0x4               src/dat_snd.o
+WAV_BULLET          0x4               src/dat_snd.o
+draw_tilesBank      0x1               src/draw.o
+music_snd           0x4               src/game.o
+map_tilesBank       0x1               src/maps.o
+gfcd_fatal_err      0x4               l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_cdc2.o
+WAV_TING            0x4               src/dat_snd.o
+WAV_BOMB            0x4               src/dat_snd.o
+RemainWork          0x4               src/workarea.o
+e_bullet_offsx      0x1               src/e_bullet.o
+WAV_PAD             0x4               src/game.o
+e_bomb_yc           0x2               src/e_bomb.o
+WAV_DIE             0x4               src/game.o
+WAV_GAMEOVER        0x4               src/game.o
+WorkBuf             0x40              src/workarea.o
+WAV_EXPLODE         0x4               src/game.o
+WAV_WAA             0x4               src/dat_snd.o
+errno               0x4               l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-syscalls.o)
+gfcd_work           0x4               l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_cdc2.o
+gfcf_stat           0x4               l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_cdf2.o
+m_dat               0x50              src/saturn.o
+gfcd_playflag       0x4               l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_cdc2.o
+e_bullet_xc         0x2               src/e_bullet.o
+e_bomb_ticker       0x1               src/e_bomb.o
+cd_stat             0xc               L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_sub.o)
+ent_ents            0x256             src/ents.o
+EventBuf            0x80              src/workarea.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+TARGET(coff-sh)
+
+SLSTART         0x0000000006004000       0x30
+                0x0000000006004000                ___Start = .
+ *(SLSTART)
+ SLSTART        0x0000000006004000       0x28 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglI00.o)
+                0x0000000006004000                SGL_Start
+                0x0000000006004002                slStartSGL
+
+.text           0x0000000006004040    0x11fc0
+ *(.text)
+ .text          0x0000000006004040      0x988 src/saturn.o
+                0x0000000006004040                Pal2CRAM
+                0x0000000006004060                ChangeDir
+                0x00000000060040b0                InitCD
+                0x0000000006004104                SDL_SetColors
+                0x0000000006004184                SDL_InitSubSystem
+                0x0000000006004200                SDL_Init
+                0x000000000600424c                SDL_OpenAudio
+                0x0000000006004344                SDL_PauseAudio
+                0x00000000060043a0                SDL_PollEvent
+                0x00000000060044dc                SDL_WaitEvent
+                0x0000000006004608                SDL_DestroyMutex
+                0x0000000006004614                SDL_GetTicks
+                0x000000000600471c                SDL_Delay
+                0x0000000006004728                ClsFast
+                0x0000000006004744                SDL_SetVideoMode
+                0x0000000006004814                GetFileSize
+                0x0000000006004868                SDL_LoadWAV_RW
+ .text          0x00000000060049c8        0x0 src/workarea.o
+ .text          0x00000000060049c8       0xe8 src/scr_xrick.o
+                0x00000000060049c8                screen_xrick
+ .text          0x0000000006004ab0       0x70 src/scr_pause.o
+                0x0000000006004ab0                screen_pause
+ .text          0x0000000006004b20      0x28c src/scr_imain.o
+                0x0000000006004b20                screen_introMain
+ .text          0x0000000006004dac      0x4c4 src/scr_imap.o
+                0x0000000006005004                screen_introMap
+ .text          0x0000000006005270      0x124 src/scr_gameover.o
+                0x0000000006005270                screen_gameover
+ .text          0x0000000006005394      0x528 src/scr_getname.o
+                0x0000000006005498                screen_getname
+ .text          0x00000000060058bc        0x0 src/dat_picsST.o
+ .text          0x00000000060058bc        0x0 src/dat_screens.o
+ .text          0x00000000060058bc        0x0 src/dat_tilesST.o
+ .text          0x00000000060058bc        0x0 src/dat_maps.o
+ .text          0x00000000060058bc        0x0 src/dat_ents.o
+ .text          0x00000000060058bc        0x0 src/dat_spritesST.o
+ .text          0x00000000060058bc      0x700 src/ents.o
+                0x0000000006005964                ent_reset
+                0x00000000060059b4                ent_actvis
+                0x0000000006005c98                ent_draw
+                0x0000000006005f00                ent_clprev
+                0x0000000006005f38                ent_action
+ .text          0x0000000006005fbc       0xd8 src/e_bullet.o
+                0x0000000006005fbc                e_bullet_init
+                0x0000000006006014                e_bullet_action
+ .text          0x0000000006006094      0x1e4 src/e_bomb.o
+                0x0000000006006094                e_bomb_hit
+                0x0000000006006128                e_bomb_init
+                0x0000000006006168                e_bomb_action
+ .text          0x0000000006006278      0x894 src/e_rick.o
+                0x0000000006006278                e_rick_boxtest
+                0x00000000060062f4                e_rick_gozombie
+                0x0000000006006384                e_rick_action2
+                0x00000000060068ec                e_rick_action
+                0x0000000006006a7c                e_rick_save
+                0x0000000006006abc                e_rick_restore
+ .text          0x0000000006006b0c      0x168 src/e_sbonus.o
+                0x0000000006006b0c                e_sbonus_start
+                0x0000000006006b9c                e_sbonus_stop
+ .text          0x0000000006006c74      0xd90 src/e_them.o
+                0x0000000006006c74                u_themtest
+                0x0000000006006ce4                e_them_gozombie
+                0x0000000006006da0                e_them_t1_action2
+                0x0000000006006f80                e_them_t1_action
+                0x0000000006007084                e_them_t1a_action
+                0x000000000600709c                e_them_t1b_action
+                0x00000000060070b4                e_them_z_action
+                0x0000000006007160                e_them_t2_action2
+                0x0000000006007540                e_them_t2_action
+                0x0000000006007638                e_them_t3_action2
+                0x00000000060079a4                e_them_t3_action
+ .text          0x0000000006007a04       0xc4 src/e_bonus.o
+                0x0000000006007a04                e_bonus_action
+ .text          0x0000000006007ac8      0x184 src/e_box.o
+                0x0000000006007b04                e_box_action
+ .text          0x0000000006007c4c       0x80 src/rects.o
+                0x0000000006007c4c                rects_free
+                0x0000000006007c84                rects_new
+ .text          0x0000000006007ccc      0x3b4 src/util.o
+                0x0000000006007ccc                u_fboxtest
+                0x0000000006007d20                u_boxtest
+                0x0000000006007da0                u_envtest
+                0x0000000006008000                u_trigbox
+ .text          0x0000000006008080       0x24 src/xrick.o
+                0x0000000006008080                main
+ .text          0x00000000060080a4      0xab0 src/draw.o
+                0x00000000060080a4                draw_setfb
+                0x00000000060080d0                draw_clipms
+                0x000000000600814a                draw_tile
+                0x00000000060081c0                draw_tilesSubList
+                0x000000000600820c                draw_tilesList
+                0x0000000006008258                draw_tilesListImm
+                0x0000000006008274                draw_sprite
+                0x0000000006008320                draw_sprite2
+                0x0000000006008710                draw_spriteBackground
+                0x000000000600882c                draw_map
+                0x00000000060088b0                draw_drawStatus
+                0x00000000060089a0                draw_infos
+                0x0000000006008a18                draw_clearStatus
+                0x0000000006008a60                draw_pic
+                0x0000000006008af4                draw_img
+ .text          0x0000000006008b54      0x294 src/maps.o
+                0x0000000006008b54                map_expand
+                0x0000000006008c38                map_init
+                0x0000000006008d0c                map_chain
+                0x0000000006008dc4                map_resetMarks
+ .text          0x0000000006008de8      0x160 src/sysvid.o
+                0x0000000006008de8                sysvid_setPalette
+                0x0000000006008e3c                sysvid_setGamePalette
+                0x0000000006008e90                sysvid_init
+                0x0000000006008ed8                sysvid_update
+                0x0000000006008f20                sysvid_clear
+ .text          0x0000000006008f48        0x0 src/syskbd.o
+ .text          0x0000000006008f48        0x0 src/control.o
+ .text          0x0000000006008f48       0x58 src/system.o
+                0x0000000006008f48                sys_gettime
+                0x0000000006008f74                sys_sleep
+                0x0000000006008f80                sys_init
+ .text          0x0000000006008fa0      0x2a8 src/scroller.o
+                0x0000000006008fa0                scroll_up
+                0x00000000060090f4                scroll_down
+ .text          0x0000000006009248      0x200 src/sysevt.o
+                0x0000000006009400                sysevt_poll
+                0x0000000006009424                sysevt_wait
+ .text          0x0000000006009448      0x260 src/syssnd.o
+                0x0000000006009448                syssnd_init
+                0x0000000006009498                syssnd_play
+                0x0000000006009568                syssnd_pause
+                0x0000000006009588                syssnd_stopsound
+                0x0000000006009618                syssnd_load
+ .text          0x00000000060096a8        0x0 src/dat_snd.o
+ .text          0x00000000060096a8      0x770 src/game.o
+                0x00000000060096d0                game_stopmusic
+                0x00000000060096f8                game_setmusic
+                0x000000000600975c                game_run
+ .text          0x0000000006009e18     0x11d8 l:/saturn/SBL6/SEGALIB/GFS/elf/gfs2.o
+                0x0000000006009e18                gfs_recovRdErr
+                0x0000000006009e40                GFS_GetErrStat
+                0x0000000006009e60                gfs_mngSetupFuncTbl
+                0x0000000006009e8c                gfs_mngInitWork
+                0x0000000006009f0c                gfs_mngGetNumFile
+                0x0000000006009f50                GFS_mngAllocGrp
+                0x0000000006009f90                gfs_mngFreeGrp
+                0x0000000006009f96                gfs_mngTermAccess
+                0x000000000600a004                gfs_mngSetErrCode
+                0x000000000600a054                GFS_Tell
+                0x000000000600a098                GFS_IdToName
+                0x000000000600a0fc                GFS_NameToId
+                0x000000000600a154                GFS_SetDir
+                0x000000000600a1a4                gfs_svrSearchHndl
+                0x000000000600a1e0                gfs_svrAddHndl
+                0x000000000600a214                gfs_svrRemoveHndl
+                0x000000000600a284                GFS_OpenSub
+                0x000000000600a2c8                GFS_Open
+                0x000000000600a378                gfs_SetSct
+                0x000000000600a3ac                gfs_GetFinfo
+                0x000000000600a402                GFS_GetFileInfo
+                0x000000000600a470                gfs_transData
+                0x000000000600a500                GFS_SetReadPara
+                0x000000000600a564                GFS_NwGetStat
+                0x000000000600a5d4                GFS_NwFread
+                0x000000000600a6d0                GFS_GetFileSize
+                0x000000000600a728                GFS_Seek
+                0x000000000600a7cc                gfs_closeSub
+                0x000000000600a800                GFS_Close
+                0x000000000600a830                GFS_LoadDir
+                0x000000000600a8c8                gfs_getGmode
+                0x000000000600a8ce                gfs_isTaskDone
+                0x000000000600a91c                gfs_convFinStat
+                0x000000000600a980                gfs_flowIn
+                0x000000000600aa04                GFS_NwExecOne
+                0x000000000600aa98                gfs_waitRead
+                0x000000000600ab44                GFS_Fread
+                0x000000000600abd0                gfs_loadVol
+                0x000000000600ac64                gfs_getRootDir
+                0x000000000600ad14                gfs_loadRootDir
+                0x000000000600ad98                gfs_chgRoot
+                0x000000000600ae5c                GFS_Init
+                0x000000000600af30                GFS_Load
+ .text          0x000000000600aff0      0x4ac l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_cdb2.o
+                0x000000000600aff0                GFCB_Close
+                0x000000000600b010                GFCB_GetLenData
+                0x000000000600b0ac                GFCB_DeleteAllData
+                0x000000000600b0c8                GFCB_Setup
+                0x000000000600b1ac                GFCB_Tell
+                0x000000000600b1b4                gfcb_getSctNum
+                0x000000000600b1fc                GFCB_Seek
+                0x000000000600b2e8                GFCB_GetSrcPack
+                0x000000000600b3b4                GFCB_GetSctData
+                0x000000000600b3e0                GFCB_RtnPk
+                0x000000000600b424                GFCB_MovePickup
+                0x000000000600b434                GFCB_SetCon
+                0x000000000600b460                GFCB_GetPickup
+                0x000000000600b484                GFCB_IsPuOwner
+                0x000000000600b490                GFCB_UngetPickup
+ .text          0x000000000600b49c     0x1500 l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_cdc2.o
+                0x000000000600b49c                GFCD_SetCdbfs
+                0x000000000600b4c4                GFCD_AllocFilt
+                0x000000000600b4f4                GFCD_FreeFilt
+                0x000000000600b51c                GFCD_AllocBuf
+                0x000000000600b548                GFCD_GetBaseFad
+                0x000000000600b578                GFCD_GetPickup
+                0x000000000600b5a0                GFCD_UngetPickup
+                0x000000000600b5c4                GFCD_IsPuOwner
+                0x000000000600b5e0                GFCD_CheckDelSctData
+                0x000000000600b604                gfcd_isIdleTask
+                0x000000000600b664                GFCD_SetTimer
+                0x000000000600b670                gfcd_checkEflag
+                0x000000000600b68c                gfcd_initCdbMng
+                0x000000000600b6e4                gfcd_setStat
+                0x000000000600b708                gfcd_doSetFiltConTsk
+                0x000000000600b81c                GFCD_SetFiltCon
+                0x000000000600b8f4                gfcd_doMoveSctTsk
+                0x000000000600ba20                gfcd_doDelSctDataTsk
+                0x000000000600bb3c                GFCD_DelSctData
+                0x000000000600bb84                gfcd_doReqDataTsk
+                0x000000000600bc04                GFCD_ReqData
+                0x000000000600bc4c                gfcd_doGetLenDataTsk
+                0x000000000600bd5c                GFCD_GetLenData
+                0x000000000600bda0                gfcd_doSetConTsk
+                0x000000000600be20                GFCD_SetCon
+                0x000000000600be70                gfcd_doSetFiltTsk
+                0x000000000600bff4                GFCD_SetFilt
+                0x000000000600c088                GFCD_GetBufSiz
+                0x000000000600c0bc                GFCD_GetFileInfo
+                0x000000000600c194                GFCD_EndData
+                0x000000000600c1d4                GFCD_ChkScdqFlag
+                0x000000000600c1f0                GFCD_ClrScdqFlag
+                0x000000000600c200                GFCD_WaitScdqFlag
+                0x000000000600c238                GFCD_GetStat
+                0x000000000600c2c0                gfcd_doChgDirTsk
+                0x000000000600c46c                gfcd_doTask
+                0x000000000600c4dc                GFCD_ChgDir
+                0x000000000600c544                GFCD_ExecServer
+                0x000000000600c614                GFCD_WaitServer
+                0x000000000600c648                GFCD_FreeBuf
+                0x000000000600c6dc                GFCD_MovePickup
+                0x000000000600c728                GFCD_Play
+                0x000000000600c788                GFCD_Init
+                0x000000000600c954                GFCD_WaitPause
+ .text          0x000000000600c99c      0x668 l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_cdf2.o
+                0x000000000600c99c                GFCF_Init
+                0x000000000600c9f8                GFCF_SetSct
+                0x000000000600ca30                GFCF_GetFileInfo
+                0x000000000600ca96                GFCF_Recover
+                0x000000000600ca9a                GFCF_Tell
+                0x000000000600caa4                GFCF_Seek
+                0x000000000600cab0                GFCF_cnvIntlvOfs
+                0x000000000600caec                GFCF_GetStat
+                0x000000000600cb70                GFCF_StopInBuf
+                0x000000000600cbf8                gfcf_getSctSize
+                0x000000000600cc2e                GFCF_Setup
+                0x000000000600cd28                gfcf_isCdOk
+                0x000000000600cdbc                gfcf_getPlayRange
+                0x000000000600ced0                GFCF_FlowInBuf
+ .text          0x000000000600d004      0x62c l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_trn2.o
+                0x000000000600d004                gftr_reqCpu
+                0x000000000600d008                gftr_remCpu
+                0x000000000600d00c                GFTR_Setup
+                0x000000000600d032                GFTR_SetMode
+                0x000000000600d03e                GFTR_SetUnit
+                0x000000000600d042                GFTR_SetTransPara
+                0x000000000600d068                GFTR_Start
+                0x000000000600d06e                gftr_getSrcPack
+                0x000000000600d0ec                GFTR_Idle
+                0x000000000600d168                gftr_reqTrn
+                0x000000000600d1c4                gftr_execTrn
+                0x000000000600d29c                gftr_remTrn
+                0x000000000600d2f8                gftr_copyFrac
+                0x000000000600d314                gftr_execCpu
+                0x000000000600d364                GFTR_GetLenRoom
+                0x000000000600d372                GFTR_GetDstPack
+                0x000000000600d39c                GFTR_RtnDstPk
+                0x000000000600d3b0                GFTR_SetData
+                0x000000000600d3bc                gftr_getDstPack
+                0x000000000600d3fc                GFTR_ExecSvr
+                0x000000000600d520                GFTR_Exec
+                0x000000000600d57c                GFTR_Stop
+ .text          0x000000000600d630       0x60 l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_buf2.o
+                0x000000000600d630                GFBF_GetNumData
+                0x000000000600d64c                GFBF_GetSrcPk
+                0x000000000600d664                GFBF_GetSctData
+                0x000000000600d678                GFBF_RtnPk
+ .text          0x000000000600d690      0x7ac l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_dir2.o
+                0x000000000600d690                GFDR_NameToId
+                0x000000000600d6e4                GFDR_GetInfoDirId
+                0x000000000600d6ee                GFDR_GetInfoDirName
+                0x000000000600d6f8                GFDR_GetAtrDirName
+                0x000000000600d708                GFDR_ChgDir
+                0x000000000600d780                GFDR_ChgRoot
+                0x000000000600d78c                gfdr_open
+                0x000000000600d7ac                gfdr_read
+                0x000000000600d868                gfdr_readByte
+                0x000000000600d894                gfdr_readWord
+                0x000000000600d8c0                gfdr_readWordNB
+                0x000000000600d908                gfdr_readLongNB
+                0x000000000600d94c                gfdr_readLongNM
+                0x000000000600d970                gfdr_setNextRec
+                0x000000000600d9f0                gfdr_readDirEnt
+                0x000000000600dd08                gfdr_setDirrecCd
+                0x000000000600dd3e                gfdr_setupDirNameTbl
+                0x000000000600ddf0                GFDR_SetupDirTbl
+ .text          0x000000000600de3c      0x26c L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_bif.o)
+                0x000000000600de3c                CDC_ExeFadSearch
+                0x000000000600de78                CDC_CalActSiz
+                0x000000000600dea8                CDC_GetSctInfo
+                0x000000000600df1c                CDC_GetSctNum
+                0x000000000600df60                CDC_GetBufSiz
+                0x000000000600dfc0                chkEselUpdStatus
+                0x000000000600dff4                CDC_GetFadSearch
+                0x000000000600e05c                CDC_GetActSiz
+ .text          0x000000000600e0a8      0x1a4 L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_bio.o)
+                0x000000000600e0a8                CDC_GetCopyErr
+                0x000000000600e0ec                CDC_MoveSctData
+                0x000000000600e120                CDC_CopySctData
+                0x000000000600e154                CDC_PutSctData
+                0x000000000600e188                CDC_GetdelSctData
+                0x000000000600e1b8                CDC_DelSctData
+                0x000000000600e1e8                CDC_GetSctData
+                0x000000000600e218                CDC_SetSctLen
+ .text          0x000000000600e24c      0x1d0 L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_cfs.o)
+                0x000000000600e24c                CDC_AbortFile
+                0x000000000600e290                CDC_ReadFile
+                0x000000000600e2d8                CDC_ReadDir
+                0x000000000600e314                CDC_ChgDir
+                0x000000000600e350                CDC_GetFileScope
+                0x000000000600e3bc                CDC_TgetFileInfo
+ .text          0x000000000600e41c      0x3e4 L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_cmn.o)
+                0x000000000600e430                CDC_GetSes
+                0x000000000600e47c                CDC_GetHwInfo
+                0x000000000600e4e0                CDC_DataEnd
+                0x000000000600e540                CDC_DataReady
+                0x000000000600e5a0                CDC_CdOpen
+                0x000000000600e5d0                CDC_CdInit
+                0x000000000600e64c                CDC_TgetToc
+                0x000000000600e6b0                getPeriRsp
+                0x000000000600e75c                CDC_GetPeriStat
+                0x000000000600e7a4                CDC_GetLastStat
+                0x000000000600e7b0                CDC_GetCurStat
+ .text          0x000000000600e800       0xb4 L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_dev.o)
+                0x000000000600e800                CDC_CdGetLastBuf
+                0x000000000600e840                CDC_CdGetCon
+                0x000000000600e880                CDC_CdSetCon
+ .text          0x000000000600e8b4      0x12c L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_drv.o)
+                0x000000000600e8b4                analyPos
+                0x000000000600e910                CDC_CdScan
+                0x000000000600e944                CDC_CdSeek
+                0x000000000600e980                CDC_CdPlay
+ .text          0x000000000600e9e0      0x2bc L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_reg.o)
+                0x000000000600e9f4                CDC_GetDataPtr
+                0x000000000600ea00                CDC_GetHirqReq
+                0x000000000600ea0c                CDREG_ClrHirqReq
+                0x000000000600ea18                CDREG_SetHirqFlag
+                0x000000000600ea28                CDC_GetHirqMsk
+                0x000000000600ea34                CDC_SetHirqMsk
+                0x000000000600ea40                CDC_GetMpegPtr
+                0x000000000600ea4c                CDREG_WaitHirq
+                0x000000000600ea78                doCmdRsp
+                0x000000000600eb60                CDREG_CmdRsp
+                0x000000000600ebac                writeCmd
+                0x000000000600ebd4                CDREG_ReadRsp
+                0x000000000600ec04                CDREG_TgetData
+                0x000000000600ec68                CDC_ClrHirqReq
+                0x000000000600ec84                CDREG_InitHirqReq
+ .text          0x000000000600ec9c      0x2d4 L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_sel.o)
+                0x000000000600ec9c                CDC_ResetSelector
+                0x000000000600ecd0                CDC_SetFiltCon
+                0x000000000600ed0c                CDC_SetFiltMode
+                0x000000000600ed40                CDC_SetFiltSubh
+                0x000000000600eda8                CDC_SetFiltRange
+                0x000000000600edec                CDC_GetFiltCon
+                0x000000000600ee3c                CDC_GetFiltMode
+                0x000000000600ee80                CDC_GetFiltSubh
+                0x000000000600eef8                CDC_GetFiltRange
+ .text          0x000000000600ef70      0x11c L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_sub.o)
+                0x000000000600ef84                CDSUB_RspToCdstat
+                0x000000000600efba                CDSUB_SoftTimer
+                0x000000000600efbe                CDSUB_GetCdstat
+                0x000000000600f000                CDSUB_CdCmd
+                0x000000000600f064                CDSUB_UpdCdstat
+                0x000000000600f080                CDSUB_UpdStatus
+ *fill*         0x000000000600f08c        0x4 00
+ .text          0x000000000600f090        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB001.o)
+ .text          0x000000000600f090        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB002.o)
+ .text          0x000000000600f090        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB015.o)
+ .text          0x000000000600f090        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB061.o)
+ .text          0x000000000600f090        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB071.o)
+ .text          0x000000000600f090        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB200.o)
+ .text          0x000000000600f090        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglD20.o)
+ .text          0x000000000600f090        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglF15.o)
+ .text          0x000000000600f090        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglF16.o)
+ .text          0x000000000600f090        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglF27.o)
+ .text          0x000000000600f090        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglG00.o)
+ .text          0x000000000600f090        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglG02.o)
+ .text          0x000000000600f090        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglG21.o)
+ .text          0x000000000600f090        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglG22.o)
+ .text          0x000000000600f090        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglG25.o)
+ .text          0x000000000600f090        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglH00.o)
+ .text          0x000000000600f090        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglH02.o)
+ .text          0x000000000600f090        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglH04.o)
+ .text          0x000000000600f090        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglI01.o)
+ .text          0x000000000600f090      0x128 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglIc0.o)
+                0x000000000600f090                slInitSystem
+ *fill*         0x000000000600f1b8        0x8 00
+ .text          0x000000000600f1c0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ00.o)
+ .text          0x000000000600f1c0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ01.o)
+ .text          0x000000000600f1c0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ02.o)
+ .text          0x000000000600f1c0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ03.o)
+ .text          0x000000000600f1c0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ04.o)
+ .text          0x000000000600f1c0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ05.o)
+ .text          0x000000000600f1c0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglK01.o)
+ .text          0x000000000600f1c0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglM01.o)
+ .text          0x000000000600f1c0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglA00.o)
+ .text          0x000000000600f1c0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglA20.o)
+ .text          0x000000000600f1c0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB000.o)
+ .text          0x000000000600f1c0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB010.o)
+ .text          0x000000000600f1c0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB011.o)
+ .text          0x000000000600f1c0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB012.o)
+ .text          0x000000000600f1c0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB035.o)
+ .text          0x000000000600f1c0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglC00.o)
+ .text          0x000000000600f1c0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglD00.o)
+ .text          0x000000000600f1c0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglD01.o)
+ .text          0x000000000600f1c0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglD02.o)
+ .text          0x000000000600f1c0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglF25.o)
+ .text          0x000000000600f1c0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglI00.o)
+ .text          0x000000000600f1c0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglH03.o)
+ .text          0x000000000600f1c0       0x52 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_ashiftrt.o)
+                0x000000000600f1c0                __ashiftrt_r4_31
+                0x000000000600f1c0                __ashiftrt_r4_32
+                0x000000000600f1c6                __ashiftrt_r4_30
+                0x000000000600f1c8                __ashiftrt_r4_29
+                0x000000000600f1ca                __ashiftrt_r4_28
+                0x000000000600f1cc                __ashiftrt_r4_27
+                0x000000000600f1ce                __ashiftrt_r4_26
+                0x000000000600f1d0                __ashiftrt_r4_25
+                0x000000000600f1d2                __ashiftrt_r4_24
+                0x000000000600f1da                __ashiftrt_r4_23
+                0x000000000600f1dc                __ashiftrt_r4_22
+                0x000000000600f1de                __ashiftrt_r4_21
+                0x000000000600f1e0                __ashiftrt_r4_20
+                0x000000000600f1e2                __ashiftrt_r4_19
+                0x000000000600f1e4                __ashiftrt_r4_18
+                0x000000000600f1e6                __ashiftrt_r4_17
+                0x000000000600f1e8                __ashiftrt_r4_16
+                0x000000000600f1ee                __ashiftrt_r4_15
+                0x000000000600f1f0                __ashiftrt_r4_14
+                0x000000000600f1f2                __ashiftrt_r4_13
+                0x000000000600f1f4                __ashiftrt_r4_12
+                0x000000000600f1f6                __ashiftrt_r4_11
+                0x000000000600f1f8                __ashiftrt_r4_10
+                0x000000000600f1fa                __ashiftrt_r4_9
+                0x000000000600f1fc                __ashiftrt_r4_8
+                0x000000000600f1fe                __ashiftrt_r4_7
+                0x000000000600f200                __ashiftrt_r4_6
+                0x000000000600f202                __ashiftrt_r4_5
+                0x000000000600f204                __ashiftrt_r4_4
+                0x000000000600f206                __ashiftrt_r4_3
+                0x000000000600f208                __ashiftrt_r4_2
+                0x000000000600f20a                __ashiftrt_r4_1
+                0x000000000600f20e                __ashiftrt_r4_0
+ *fill*         0x000000000600f212        0x2 00
+ .text          0x000000000600f214       0x80 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_ashiftrt_n.o)
+                0x000000000600f214                __ashrsi3
+ .text          0x000000000600f294       0x88 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_ashiftlt.o)
+                0x000000000600f294                __ashlsi3
+ .text          0x000000000600f31c       0x78 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_movmem.o)
+                0x000000000600f31c                __movmem
+                0x000000000600f31c                __movstr
+                0x000000000600f350                __movstrSI64
+                0x000000000600f350                __movmemSI64
+                0x000000000600f354                __movstrSI60
+                0x000000000600f354                __movmemSI60
+                0x000000000600f358                __movstrSI56
+                0x000000000600f358                __movmemSI56
+                0x000000000600f35c                __movstrSI52
+                0x000000000600f35c                __movmemSI52
+                0x000000000600f360                __movstrSI48
+                0x000000000600f360                __movmemSI48
+                0x000000000600f364                __movmemSI44
+                0x000000000600f364                __movstrSI44
+                0x000000000600f368                __movstrSI40
+                0x000000000600f368                __movmemSI40
+                0x000000000600f36c                __movmemSI36
+                0x000000000600f36c                __movstrSI36
+                0x000000000600f370                __movmemSI32
+                0x000000000600f370                __movstrSI32
+                0x000000000600f374                __movstrSI28
+                0x000000000600f374                __movmemSI28
+                0x000000000600f378                __movmemSI24
+                0x000000000600f378                __movstrSI24
+                0x000000000600f37c                __movstrSI20
+                0x000000000600f37c                __movmemSI20
+                0x000000000600f380                __movstrSI16
+                0x000000000600f380                __movmemSI16
+                0x000000000600f384                __movstrSI12
+                0x000000000600f384                __movmemSI12
+                0x000000000600f388                __movmemSI8
+                0x000000000600f388                __movstrSI8
+                0x000000000600f38c                __movmemSI4
+                0x000000000600f38c                __movstrSI4
+ *fill*         0x000000000600f394        0xc 00
+ .text          0x000000000600f3a0      0x200 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_add_sub_sf3.o)
+                0x000000000600f3a0                __subsf3
+                0x000000000600f3a4                __addsf3
+ .text          0x000000000600f5a0      0x160 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_mulsf3.o)
+                0x000000000600f5a0                __mulsf3
+ .text          0x000000000600f700      0x1a0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_divsf3.o)
+                0x000000000600f700                __divsf3
+ .text          0x000000000600f8a0       0x80 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_fixunssfsi.o)
+                0x000000000600f8a0                __fixunssfsi
+ .text          0x000000000600f920       0x80 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_floatunssisf.o)
+                0x000000000600f920                __floatunsisf
+ .text          0x000000000600f9a0       0xc0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_floatsisf.o)
+                0x000000000600f9a0                __floatsisf
+ .text          0x000000000600fa60       0xbc l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc-Os-4-200.a(udivsi3_i4i-Os-4-200.o)
+                0x000000000600fa60                __udivsi3_i4i
+                0x000000000600fadc                __sdivsi3_i4i
+ .text          0x000000000600fb1c       0x38 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-malloc.o)
+                0x000000000600fb1c                malloc
+                0x000000000600fb38                free
+ .text          0x000000000600fb54      0x4a8 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-mallocr.o)
+                0x000000000600fb54                _malloc_r
+ .text          0x000000000600fffc       0x94 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-memcpy.o)
+                0x000000000600fffc                memcpy
+ .text          0x0000000006010090       0x40 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-memset.o)
+                0x0000000006010090                memset
+ .text          0x00000000060100d0       0x18 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-mlock.o)
+                0x00000000060100d0                __malloc_lock
+                0x00000000060100dc                __malloc_unlock
+ .text          0x00000000060100e8       0x3c l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-sbrkr.o)
+                0x00000000060100e8                _sbrk_r
+ .text          0x0000000006010124       0xb4 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-sprintf.o)
+                0x0000000006010124                _sprintf_r
+                0x0000000006010178                sprintf
+ .text          0x00000000060101d8       0x3c l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-strcpy.o)
+                0x00000000060101d8                strcpy
+ .text          0x0000000006010214       0x20 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-strlen.o)
+                0x0000000006010214                strlen
+ .text          0x0000000006010234       0x3c l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-strncmp.o)
+                0x0000000006010234                strncmp
+ .text          0x0000000006010270       0x3e l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-strncpy.o)
+                0x0000000006010270                strncpy
+ *fill*         0x00000000060102ae        0x2 00
+ .text          0x00000000060102b0     0x1470 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-svfprintf.o)
+                0x00000000060102b0                _svfprintf_r
+ .text          0x0000000006011720      0x394 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-syscalls.o)
+                0x0000000006011794                _read
+                0x00000000060117b4                _lseek
+                0x00000000060117d4                _write
+                0x00000000060117f4                _close
+                0x0000000006011810                _link
+                0x000000000601181e                _sbrk
+                0x0000000006011880                _fstat
+                0x0000000006011894                _open
+                0x00000000060118b0                _creat
+                0x00000000060118cc                _unlink
+                0x00000000060118da                isatty
+                0x00000000060118e8                _isatty
+                0x00000000060118f6                _exit
+                0x0000000006011910                _kill
+                0x0000000006011930                _getpid
+                0x000000000601193e                _raise
+                0x000000000601194a                _stat
+                0x0000000006011968                _chmod
+                0x0000000006011984                _chown
+                0x00000000060119a4                _utime
+                0x00000000060119c0                _fork
+                0x00000000060119d4                _wait
+                0x00000000060119ec                _execve
+                0x0000000006011a0c                _execv
+                0x0000000006011a28                _pipe
+                0x0000000006011a40                _times
+                0x0000000006011a4e                _gettimeofday
+                0x0000000006011a78                __setup_argv_and_call_main
+ .text          0x0000000006011ab4       0x24 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-toupper.o)
+                0x0000000006011ab4                toupper
+ .text          0x0000000006011ad8       0x14 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-trap.o)
+                0x0000000006011ad8                __trap34
+ .text          0x0000000006011aec       0x1c l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-abort.o)
+                0x0000000006011aec                abort
+ .text          0x0000000006011b08        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-ctype_.o)
+ .text          0x0000000006011b08     0x1070 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-dtoa.o)
+                0x0000000006011c58                _dtoa_r
+ .text          0x0000000006012b78      0x2b0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-freer.o)
+                0x0000000006012b78                _malloc_trim_r
+                0x0000000006012c44                _free_r
+ .text          0x0000000006012e28        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-impure.o)
+ .text          0x0000000006012e28       0xd4 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-locale.o)
+                0x0000000006012e28                _setlocale_r
+                0x0000000006012e80                __locale_charset
+                0x0000000006012e94                __locale_msgcharset
+                0x0000000006012ea8                __locale_cjk_lang
+                0x0000000006012eb6                _localeconv_r
+                0x0000000006012ec8                setlocale
+                0x0000000006012ee8                localeconv
+ .text          0x0000000006012efc       0x22 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-memchr.o)
+                0x0000000006012efc                memchr
+ *fill*         0x0000000006012f1e        0x2 00
+ .text          0x0000000006012f20      0xba8 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-mprec.o)
+                0x0000000006012f20                _Balloc
+                0x0000000006012fa4                _Bfree
+                0x0000000006012fc4                __multadd
+                0x0000000006013078                __s2b
+                0x0000000006013134                __hi0bits
+                0x0000000006013198                __lo0bits
+                0x000000000601321c                __i2b
+                0x0000000006013244                __multiply
+                0x0000000006013398                __pow5mult
+                0x0000000006013458                __lshift
+                0x0000000006013544                __mcmp
+                0x0000000006013586                __mdiff
+                0x0000000006013688                __ulp
+                0x0000000006013708                __b2d
+                0x000000000601380c                __d2b
+                0x0000000006013920                __ratio
+                0x00000000060139a0                _mprec_log10
+                0x00000000060139f4                __copybits
+                0x0000000006013a36                __any_on
+ .text          0x0000000006013ac8       0x78 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-s_fpclassify.o)
+                0x0000000006013ac8                __fpclassifyd
+ .text          0x0000000006013b40      0x204 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-signal.o)
+                0x0000000006013b40                _init_signal_r
+                0x0000000006013b88                _signal_r
+                0x0000000006013be0                _raise_r
+                0x0000000006013c60                __sigtramp_r
+                0x0000000006013cd0                raise
+                0x0000000006013cec                signal
+                0x0000000006013d0c                _init_signal
+                0x0000000006013d28                __sigtramp
+ .text          0x0000000006013d44       0x50 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-signalr.o)
+                0x0000000006013d44                _kill_r
+                0x0000000006013d80                _getpid_r
+ .text          0x0000000006013d94       0x38 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-strcmp.o)
+                0x0000000006013d94                strcmp
+ .text          0x0000000006013dcc      0xb8c l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-svfiprintf.o)
+                0x0000000006013dcc                __ssprint_r
+                0x0000000006013f0c                _svfiprintf_r
+ .text          0x0000000006014958       0x84 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-callocr.o)
+                0x0000000006014958                _calloc_r
+ .text          0x00000000060149dc       0x42 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-memmove.o)
+                0x00000000060149dc                memmove
+ *fill*         0x0000000006014a1e        0x2 00
+ .text          0x0000000006014a20      0x3a0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-reallocr.o)
+                0x0000000006014a20                _realloc_r
+ .text          0x0000000006014dc0       0x88 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_lshiftrt.o)
+                0x0000000006014dc0                __lshrsi3
+ .text          0x0000000006014e48       0x24 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_nedf2.o)
+                0x0000000006014e48                __nedf2
+ .text          0x0000000006014e6c       0x48 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_gtdf2t.o)
+                0x0000000006014e6c                __gtdf2t
+ .text          0x0000000006014eb4       0x48 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_gedf2f.o)
+                0x0000000006014eb4                __gedf2f
+ *fill*         0x0000000006014efc        0x4 00
+ .text          0x0000000006014f00      0x260 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_muldf3.o)
+                0x0000000006014f00                __muldf3
+ .text          0x0000000006015160      0x320 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_add_sub_df3.o)
+                0x0000000006015160                __subdf3
+                0x0000000006015166                __adddf3
+ .text          0x0000000006015480      0x260 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_divdf3.o)
+                0x0000000006015480                __divdf3
+ .text          0x00000000060156e0       0xc0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_fixdfsi.o)
+                0x00000000060156e0                __fixdfsi
+ .text          0x00000000060157a0       0x40 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_floatunssidf.o)
+                0x00000000060157a0                __floatunsidf
+ .text          0x00000000060157e0       0x80 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_floatsidf.o)
+                0x00000000060157e0                __floatsidf
+ .text          0x0000000006015860      0x380 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_udivdi3.o)
+                0x0000000006015860                __udivdi3
+ .text          0x0000000006015be0      0x3c0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_umoddi3.o)
+                0x0000000006015be0                __umoddi3
+ .text          0x0000000006015fa0       0x60 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_udiv_qrnnd_16.o)
+                0x0000000006015fa0                __udiv_qrnnd_16
+ .text          0x0000000006016000        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_clz.o)
+ *(.strings)
+                0x0000000006016000                __etext = .
+
+.rodata         0x0000000006016000      0x100
+ *(.rodata)
+ .rodata        0x0000000006016000      0x100 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_clz.o)
+                0x0000000006016000                __clz_tab
+
+.rodata.str1.4  0x0000000006016100      0x330
+ .rodata.str1.4
+                0x0000000006016100       0x14 src/saturn.o
+ .rodata.str1.4
+                0x0000000006016114       0x28 src/scr_imain.o
+ .rodata.str1.4
+                0x000000000601613c       0x14 src/scr_gameover.o
+ .rodata.str1.4
+                0x0000000006016150       0x28 src/scr_getname.o
+ .rodata.str1.4
+                0x0000000006016178       0x64 src/dat_maps.o
+ .rodata.str1.4
+                0x00000000060161dc      0x1a4 src/game.o
+ .rodata.str1.4
+                0x0000000006016380       0x3c l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-svfprintf.o)
+ .rodata.str1.4
+                0x00000000060163bc       0x1c l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-syscalls.o)
+ .rodata.str1.4
+                0x00000000060163d8       0x14 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-dtoa.o)
+ .rodata.str1.4
+                0x00000000060163ec        0x4 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-impure.o)
+ .rodata.str1.4
+                0x00000000060163f0       0x14 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-locale.o)
+ .rodata.str1.4
+                0x0000000006016404       0x28 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-svfiprintf.o)
+
+.rodata.align2  0x0000000006016430       0x30
+ .rodata.align2
+                0x0000000006016430       0x1a src/saturn.o
+ .rodata.align2
+                0x000000000601644a        0xc src/workarea.o
+                0x000000000601644a                MaxVertices
+                0x000000000601644c                MaxPolygons
+                0x000000000601644e                EventSize
+                0x0000000006016450                WorkSize
+                0x0000000006016452                MaxEvents
+                0x0000000006016454                MaxWorks
+
+.rodata.align1  0x0000000006016460      0x450
+ .rodata.align1
+                0x0000000006016460      0x100 src/saturn.o
+ .rodata.align1
+                0x0000000006016560        0x8 src/scr_imap.o
+ .rodata.align1
+                0x0000000006016568        0x8 src/e_box.o
+ .rodata.align1
+                0x0000000006016570       0x60 src/sysvid.o
+ .rodata.align1
+                0x00000000060165d0       0x14 l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_cdf2.o
+ .rodata.align1
+                0x00000000060165e4       0x20 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-svfprintf.o)
+ .rodata.align1
+                0x0000000006016604      0x284 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-ctype_.o)
+                0x0000000006016604                _ctype_
+ .rodata.align1
+                0x0000000006016888       0x20 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-svfiprintf.o)
+
+.rodata.align4  0x00000000060168b0      0x1e0
+ .rodata.align4
+                0x00000000060168b0        0xc src/workarea.o
+                0x00000000060168b0                SortListSize
+                0x00000000060168b4                SpriteBufSize
+                0x00000000060168b8                PCM_WkSize
+ .rodata.align4
+                0x00000000060168bc        0xc src/e_them.o
+ .rodata.align4
+                0x00000000060168c8       0x30 l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_trn2.o
+ .rodata.align4
+                0x00000000060168f8       0x30 l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_buf2.o
+ .rodata.align4
+                0x0000000006016928        0x4 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-impure.o)
+                0x0000000006016928                _global_impure_ptr
+ .rodata.align4
+                0x000000000601692c       0x38 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-locale.o)
+ .rodata.align4
+                0x0000000006016964      0x124 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-mprec.o)
+                0x0000000006016964                __mprec_tens
+                0x0000000006016a2c                __mprec_bigtens
+                0x0000000006016a54                __mprec_tinytens
+
+.eh_frame       0x0000000006016a90       0xb0
+ .eh_frame      0x0000000006016a90       0x58 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_udivdi3.o)
+ .eh_frame      0x0000000006016ae8       0x58 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_umoddi3.o)
+
+SLPROG          0x0000000006016b40     0x5d70
+                0x0000000006016b40                __slprog_start = .
+ *(SLPROG)
+ SLPROG         0x0000000006016b40       0x20 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB001.o)
+                0x0000000006016b40                slTVOn
+                0x0000000006016b4a                slTVOff
+ SLPROG         0x0000000006016b60       0x1e C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB002.o)
+                0x0000000006016b60                slColRAMMode
+ *fill*         0x0000000006016b7e        0x2 00
+ SLPROG         0x0000000006016b80      0x40c C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB015.o)
+                0x0000000006016b80                slScrAutoDisp
+ *fill*         0x0000000006016f8c        0x4 00
+ SLPROG         0x0000000006016f90       0x14 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB061.o)
+                0x0000000006016f90                slBMPalette
+ *fill*         0x0000000006016fa4        0xc 00
+ SLPROG         0x0000000006016fb0        0xc C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB071.o)
+                0x0000000006016fb0                slScrPosNbg1
+ *fill*         0x0000000006016fbc        0x4 00
+ SLPROG         0x0000000006016fc0      0x114 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB200.o)
+                0x0000000006016fc0                slCharRbg0
+                0x0000000006016fcc                slCharNbg0
+                0x0000000006016fd8                slCharNbg1
+                0x0000000006016fe4                slCharNbg2
+                0x0000000006016ffa                slCharNbg3
+                0x0000000006017012                slPageRbg0
+                0x0000000006017028                slPageNbg1
+                0x0000000006017030                slPageNbg2
+                0x0000000006017038                slPageNbg3
+                0x0000000006017044                slPageNbg0
+ *fill*         0x00000000060170d4        0xc 00
+ SLPROG         0x00000000060170e0        0x4 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglD20.o)
+                0x00000000060170e0                CSH_Init
+                0x00000000060170e0                DMA_ScuInit
+ *fill*         0x00000000060170e4        0xc 00
+ SLPROG         0x00000000060170f0       0x6e C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglF15.o)
+                0x00000000060170f0                slInitBitMap
+                0x0000000006017150                BitMapTop
+ *fill*         0x000000000601715e        0x2 00
+ SLPROG         0x0000000006017160       0x10 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglF16.o)
+                0x0000000006017160                slBitMapBase
+ SLPROG         0x0000000006017170       0x30 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglF27.o)
+                0x0000000006017170                slBMPut
+ SLPROG         0x00000000060171a0      0x1d0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglG00.o)
+                0x00000000060171a0                slInitSound
+                0x00000000060172a4                slWaitSound
+                0x00000000060172bc                slSndFlush
+ SLPROG         0x0000000006017370       0x38 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglG02.o)
+                0x0000000006017370                slDSPOff
+                0x0000000006017374                slSndMapChange
+ *fill*         0x00000000060173a8        0x8 00
+ SLPROG         0x00000000060173b0      0x1e0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglG21.o)
+                0x00000000060173b8                slPCMOn
+                0x00000000060174d6                slSndPCMNum
+ SLPROG         0x0000000006017590       0x48 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglG22.o)
+                0x0000000006017590                slPCMOff
+ *fill*         0x00000000060175d8        0x8 00
+ SLPROG         0x00000000060175e0       0x18 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglG25.o)
+                0x00000000060175e0                slPCMStat
+ *fill*         0x00000000060175f8        0x8 00
+ SLPROG         0x0000000006017600      0xfc8 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglH00.o)
+                0x0000000006017618                slGetPortDir1
+                0x0000000006017620                slGetPortDir2
+                0x0000000006017628                slSetPortDir1
+                0x0000000006017652                slSetPortDir2
+                0x000000000601768c                slGetPortData1
+                0x0000000006017694                slGetPortData2
+                0x000000000601769c                slSetPortData1
+                0x00000000060176a6                slSetPortData2
+                0x00000000060176b8                slGetPortSelect1
+                0x00000000060176c2                slGetPortSelect2
+                0x00000000060176cc                slSetPortSelect1
+                0x0000000006017700                slSetPortSelect2
+                0x000000000601773c                slGetPortExt1
+                0x0000000006017746                slGetPortExt2
+                0x0000000006017750                slSetPortExt1
+                0x0000000006017780                slSetPortExt2
+                0x00000000060178f4                slSmpcDirectAccess
+                0x0000000006017974                slInitPeripheral
+                0x0000000006017a06                slSetResultBuffer
+                0x0000000006017a92                slCheckIntBackSet
+                0x0000000006017a9e                slIntBackCancel
+                0x0000000006017ac8                slCheckReset
+                0x0000000006017ad2                slClearReset
+                0x0000000006017c98                slSmpcCashSend
+                0x0000000006017d54                slSmpcCashBlow
+                0x0000000006017e30                slGetOptimize
+                0x0000000006017e3a                slSetOptimize
+                0x0000000006017e60                slGetPortMode1
+                0x0000000006017e6c                slGetPortMode2
+                0x0000000006017e7a                slSetPortMode1
+                0x0000000006017eb8                slSetPortMode2
+                0x0000000006018044                slRequestCommand
+                0x00000000060180b4                Smpc_Status
+                0x00000000060180b8                Smpc_Result
+                0x00000000060180bc                Smpc_Peripheral
+                0x00000000060180c2                Per_Connect1
+                0x00000000060180c3                Per_Connect2
+                0x00000000060180e4                SmpcStatusBuf
+ *fill*         0x00000000060185c8        0x8 00
+ SLPROG         0x00000000060185d0      0x470 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglH02.o)
+                0x00000000060189c0                smpc_pfr_tbl
+                0x0000000006018a00                smpc_ptf_tbl
+ SLPROG         0x0000000006018a40       0x60 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglH04.o)
+                0x0000000006018a40                slComPrmIntBack
+                0x0000000006018a54                slComPrmSetMemory
+                0x0000000006018a6a                slComPrmSetTime
+ SLPROG         0x0000000006018aa0      0x3a4 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglI01.o)
+                0x0000000006018aa0                slInitSynch
+                0x0000000006018aba                slSynch
+                0x0000000006018bb0                slRandom
+                0x0000000006018bce                PCM_EndCheck
+                0x0000000006018c8a                RetPCMBuf
+                0x0000000006018d24                PCM_Buf
+                0x0000000006018dc4                Sound_Buf
+ *fill*         0x0000000006018e44        0xc 00
+ SLPROG         0x0000000006018e50       0x74 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ00.o)
+                0x0000000006018e50                InitSlaveSH
+                0x0000000006018eb8                SlaveCommand
+ *fill*         0x0000000006018ec4        0xc 00
+ SLPROG         0x0000000006018ed0      0x3d0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ01.o)
+                0x0000000006018ed0                SlaveControl
+                0x000000000601928c                ErasePolygonData
+ SLPROG         0x00000000060192a0     0x12b8 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ02.o)
+                0x00000000060192a0                sbMakePolygon
+                0x0000000006019488                sbCalcPolygon
+                0x000000000601a1c0                SetTexture
+                0x000000000601a1cc                SetPolygon
+                0x000000000601a1d4                SetPosition
+                0x000000000601a20c                stvtc_4
+                0x000000000601a2c4                stvtc_3
+                0x000000000601a4d4                stvtc_1
+                0x000000000601a4e8                stvtc_2
+                0x000000000601a4fc                stvtc_0
+ *fill*         0x000000000601a558        0x8 00
+ SLPROG         0x000000000601a560      0x140 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ03.o)
+                0x000000000601a560                sbMakeDMATable
+ SLPROG         0x000000000601a6a0      0x470 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ04.o)
+                0x000000000601a6fe                sbMakeSprite
+                0x000000000601a764                sbMakeRotSprite
+ SLPROG         0x000000000601ab10       0x3c C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ05.o)
+                0x000000000601ab10                sbSortEntry
+ *fill*         0x000000000601ab4c        0x4 00
+ SLPROG         0x000000000601ab50       0x6a C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglM01.o)
+                0x000000000601ab50                slSetDepthLimit
+                0x000000000601ab7c                slSetDepthTbl
+                0x000000000601abac                DepthWorkArea
+ *fill*         0x000000000601abba        0x6 00
+ SLPROG         0x000000000601abc0       0x20 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglA00.o)
+                0x000000000601abc0                set_imask
+                0x000000000601abc0                _builtin_set_imask
+                0x000000000601abd4                _builtin_get_imask
+                0x000000000601abd4                get_imask
+ SLPROG         0x000000000601abe0      0x42c C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglA20.o)
+                0x000000000601abe0                slInitMatrix
+                0x000000000601abea                slPushUnitMatrix
+                0x000000000601abfe                slUnitMatrix
+ *fill*         0x000000000601b00c        0x4 00
+ SLPROG         0x000000000601b010      0xbd0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB000.o)
+                0x000000000601b010                slInitScroll
+                0x000000000601b130                setASC_1to8
+                0x000000000601b160                setASC_4to8
+                0x000000000601b270                TVSizeTbl
+                0x000000000601b2f0                TVModeTbl
+                0x000000000601b4c8                SGL_ASCII_CG
+ SLPROG         0x000000000601bbe0       0x24 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB010.o)
+                0x000000000601bbe0                slBitMapNbg0
+ *fill*         0x000000000601bc04        0xc 00
+ SLPROG         0x000000000601bc10       0x24 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB011.o)
+                0x000000000601bc10                slBitMapNbg1
+ *fill*         0x000000000601bc34        0xc 00
+ SLPROG         0x000000000601bc40       0x18 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB012.o)
+                0x000000000601bc40                slBitMapRbg0
+ *fill*         0x000000000601bc58        0x8 00
+ SLPROG         0x000000000601bc60       0xd4 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB035.o)
+                0x000000000601bc60                sl1MapRA
+                0x000000000601bcf2                rbank_set
+ *fill*         0x000000000601bd34        0xc 00
+ SLPROG         0x000000000601bd40      0x134 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglC00.o)
+                0x000000000601bd40                slInitSprite
+ *fill*         0x000000000601be74        0xc 00
+ SLPROG         0x000000000601be80       0x84 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglD00.o)
+                0x000000000601be80                slCpuDMACopy
+                0x000000000601be80                slDMACopy
+                0x000000000601beda                CSH_AllClr
+                0x000000000601beda                slCashPurge
+ *fill*         0x000000000601bf04        0xc 00
+ SLPROG         0x000000000601bf10       0xa0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglD01.o)
+                0x000000000601bf10                slDMAXCopy
+ SLPROG         0x000000000601bfb0       0x10 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglD02.o)
+                0x000000000601bfb0                slDMAWait
+ SLPROG         0x000000000601bfc0       0xa0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglF25.o)
+                0x000000000601bfc0                GetBox
+ SLPROG         0x000000000601c060      0x75c C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglI00.o)
+                0x000000000601c350                slInitInterrupt
+ *fill*         0x000000000601c7bc        0x4 00
+ SLPROG         0x000000000601c7c0       0xf0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglH03.o)
+                0x000000000601c824                slSmpcIntBack
+                0x000000000601c8b0                __slprog_end = .
+
+.tors           0x000000000601c8b0        0x0
+                0x000000000601c8b0                ___ctors = .
+ *(.ctors)
+                0x000000000601c8b0                ___ctors_end = .
+                0x000000000601c8b0                ___dtors = .
+ *(.dtors)
+                0x000000000601c8b0                ___dtors_end = .
+
+.data           0x000000000601c8b0       0x80
+ *(.data)
+ .data          0x000000000601c8b0        0x0 src/saturn.o
+ .data          0x000000000601c8b0        0x0 src/workarea.o
+ .data          0x000000000601c8b0        0x0 src/scr_xrick.o
+ .data          0x000000000601c8b0        0x0 src/scr_pause.o
+ .data          0x000000000601c8b0        0x0 src/scr_imain.o
+ .data          0x000000000601c8b0        0x0 src/scr_imap.o
+ .data          0x000000000601c8b0        0x0 src/scr_gameover.o
+ .data          0x000000000601c8b0        0x0 src/scr_getname.o
+ .data          0x000000000601c8b0        0x0 src/dat_picsST.o
+ .data          0x000000000601c8b0        0x0 src/dat_screens.o
+ .data          0x000000000601c8b0        0x0 src/dat_tilesST.o
+ .data          0x000000000601c8b0        0x0 src/dat_maps.o
+ .data          0x000000000601c8b0        0x0 src/dat_ents.o
+ .data          0x000000000601c8b0        0x0 src/dat_spritesST.o
+ .data          0x000000000601c8b0        0x0 src/ents.o
+ .data          0x000000000601c8b0        0x0 src/e_bullet.o
+ .data          0x000000000601c8b0        0x0 src/e_bomb.o
+ .data          0x000000000601c8b0        0x0 src/e_rick.o
+ .data          0x000000000601c8b0        0x0 src/e_sbonus.o
+ .data          0x000000000601c8b0        0x0 src/e_them.o
+ .data          0x000000000601c8b0        0x0 src/e_bonus.o
+ .data          0x000000000601c8b0        0x0 src/e_box.o
+ .data          0x000000000601c8b0        0x0 src/rects.o
+ .data          0x000000000601c8b0        0x0 src/util.o
+ .data          0x000000000601c8b0        0x0 src/xrick.o
+ .data          0x000000000601c8b0        0x0 src/draw.o
+ .data          0x000000000601c8b0        0x0 src/maps.o
+ .data          0x000000000601c8b0        0x0 src/sysvid.o
+ .data          0x000000000601c8b0        0x0 src/syskbd.o
+ .data          0x000000000601c8b0        0x0 src/control.o
+ .data          0x000000000601c8b0        0x0 src/system.o
+ .data          0x000000000601c8b0        0x0 src/scroller.o
+ .data          0x000000000601c8b0        0x0 src/sysevt.o
+ .data          0x000000000601c8b0        0x0 src/syssnd.o
+ .data          0x000000000601c8b0        0x0 src/dat_snd.o
+ .data          0x000000000601c8b0        0x0 src/game.o
+ .data          0x000000000601c8b0        0x0 l:/saturn/SBL6/SEGALIB/GFS/elf/gfs2.o
+ .data          0x000000000601c8b0        0x0 l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_cdb2.o
+ .data          0x000000000601c8b0        0x0 l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_cdc2.o
+ .data          0x000000000601c8b0        0x0 l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_cdf2.o
+ .data          0x000000000601c8b0        0x0 l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_trn2.o
+ .data          0x000000000601c8b0        0x0 l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_buf2.o
+ .data          0x000000000601c8b0        0x0 l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_dir2.o
+ .data          0x000000000601c8b0        0x0 L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_bif.o)
+ .data          0x000000000601c8b0        0x0 L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_bio.o)
+ .data          0x000000000601c8b0        0x0 L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_cfs.o)
+ .data          0x000000000601c8b0        0x0 L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_cmn.o)
+ .data          0x000000000601c8b0        0x0 L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_dev.o)
+ .data          0x000000000601c8b0        0x0 L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_drv.o)
+ .data          0x000000000601c8b0        0x0 L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_reg.o)
+ .data          0x000000000601c8b0        0x0 L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_sel.o)
+ .data          0x000000000601c8b0        0x0 L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_sub.o)
+ .data          0x000000000601c8b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB001.o)
+ .data          0x000000000601c8b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB002.o)
+ .data          0x000000000601c8b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB015.o)
+ .data          0x000000000601c8b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB061.o)
+ .data          0x000000000601c8b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB071.o)
+ .data          0x000000000601c8b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB200.o)
+ .data          0x000000000601c8b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglD20.o)
+ .data          0x000000000601c8b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglF15.o)
+ .data          0x000000000601c8b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglF16.o)
+ .data          0x000000000601c8b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglF27.o)
+ .data          0x000000000601c8b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglG00.o)
+ .data          0x000000000601c8b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglG02.o)
+ .data          0x000000000601c8b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglG21.o)
+ .data          0x000000000601c8b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglG22.o)
+ .data          0x000000000601c8b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglG25.o)
+ .data          0x000000000601c8b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglH00.o)
+ .data          0x000000000601c8b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglH02.o)
+ .data          0x000000000601c8b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglH04.o)
+ .data          0x000000000601c8b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglI01.o)
+ .data          0x000000000601c8b0       0x80 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglIc0.o)
+                0x000000000601c8b0                IntPrioMask
+ .data          0x000000000601c930        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ00.o)
+ .data          0x000000000601c930        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ01.o)
+ .data          0x000000000601c930        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ02.o)
+ .data          0x000000000601c930        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ03.o)
+ .data          0x000000000601c930        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ04.o)
+ .data          0x000000000601c930        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ05.o)
+ .data          0x000000000601c930        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglK01.o)
+ .data          0x000000000601c930        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglM01.o)
+ .data          0x000000000601c930        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglA00.o)
+ .data          0x000000000601c930        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglA20.o)
+ .data          0x000000000601c930        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB000.o)
+ .data          0x000000000601c930        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB010.o)
+ .data          0x000000000601c930        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB011.o)
+ .data          0x000000000601c930        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB012.o)
+ .data          0x000000000601c930        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB035.o)
+ .data          0x000000000601c930        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglC00.o)
+ .data          0x000000000601c930        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglD00.o)
+ .data          0x000000000601c930        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglD01.o)
+ .data          0x000000000601c930        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglD02.o)
+ .data          0x000000000601c930        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglF25.o)
+ .data          0x000000000601c930        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglI00.o)
+ .data          0x000000000601c930        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglH03.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_ashiftrt.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_ashiftrt_n.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_ashiftlt.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_movmem.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_add_sub_sf3.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_mulsf3.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_divsf3.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_fixunssfsi.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_floatunssisf.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_floatsisf.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc-Os-4-200.a(udivsi3_i4i-Os-4-200.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-malloc.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-mallocr.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-memcpy.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-memset.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-mlock.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-sbrkr.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-sprintf.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-strcpy.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-strlen.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-strncmp.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-strncpy.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-svfprintf.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-syscalls.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-toupper.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-trap.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-abort.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-ctype_.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-dtoa.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-freer.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-impure.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-locale.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-memchr.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-mprec.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-s_fpclassify.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-signal.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-signalr.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-strcmp.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-svfiprintf.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-callocr.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-memmove.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-reallocr.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_lshiftrt.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_nedf2.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_gtdf2t.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_gedf2f.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_muldf3.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_add_sub_df3.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_divdf3.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_fixdfsi.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_floatunssidf.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_floatsidf.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_udivdi3.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_umoddi3.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_udiv_qrnnd_16.o)
+ .data          0x000000000601c930        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_clz.o)
+                0x000000000601c930                __edata = .
+
+.data.align4    0x000000000601c930    0x22670
+ .data.align4   0x000000000601c930       0x28 src/workarea.o
+                0x000000000601c930                MasterStack
+                0x000000000601c934                SlaveStack
+                0x000000000601c938                SortList
+                0x000000000601c93c                Zbuffer
+                0x000000000601c940                SpriteBuf
+                0x000000000601c944                Pbuffer
+                0x000000000601c948                CLOfstBuf
+                0x000000000601c94c                CommandBuf
+                0x000000000601c950                PCM_Work
+                0x000000000601c954                TransList
+ .data.align4   0x000000000601c958       0x14 src/scr_xrick.o
+                0x000000000601c958                IMG_SPLASH
+ .data.align4   0x000000000601c96c        0xc src/scr_imap.o
+ .data.align4   0x000000000601c978     0xa500 src/dat_picsST.o
+                0x000000000601c978                pic_congrats
+                0x000000000601dd78                pic_haf
+                0x000000000601f178                pic_splash
+ .data.align4   0x0000000006026e78       0x14 src/dat_screens.o
+                0x0000000006026e78                screen_imaptext
+ .data.align4   0x0000000006026e8c     0x6000 src/dat_tilesST.o
+                0x0000000006026e8c                tiles_data
+ .data.align4   0x000000000602ce8c       0x3c src/dat_maps.o
+                0x000000000602ce8c                map_maps
+ .data.align4   0x000000000602cec8    0x11790 src/dat_spritesST.o
+                0x000000000602cec8                sprites_data
+ .data.align4   0x000000000603e658       0x60 src/ents.o
+                0x000000000603e658                ent_actf
+ .data.align4   0x000000000603e6b8       0x18 src/draw.o
+                0x000000000603e6b8                draw_STATUSRECT
+                0x000000000603e6c4                draw_SCREENRECT
+ .data.align4   0x000000000603e6d0        0xc src/sysvid.o
+                0x000000000603e6d0                SCREENRECT
+ .data.align4   0x000000000603e6dc       0x80 src/game.o
+                0x000000000603e6dc                game_hscores
+ .data.align4   0x000000000603e75c      0x410 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-mallocr.o)
+                0x000000000603e75c                __malloc_av_
+                0x000000000603eb64                __malloc_trim_threshold
+                0x000000000603eb68                __malloc_sbrk_base
+ .data.align4   0x000000000603eb6c        0x4 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-ctype_.o)
+                0x000000000603eb6c                __ctype_ptr__
+ .data.align4   0x000000000603eb70      0x428 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-impure.o)
+                0x000000000603eb70                _impure_ptr
+ .data.align4   0x000000000603ef98        0x4 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-locale.o)
+                0x000000000603ef98                __mb_cur_max
+
+.data.align1    0x000000000603efa0    0x14c10
+ .data.align1   0x000000000603efa0     0xfe00 src/scr_xrick.o
+ .data.align1   0x000000000604eda0        0x1 src/scr_imain.o
+ *fill*         0x000000000604eda1        0x3 00
+ .data.align1   0x000000000604eda4      0x768 src/dat_screens.o
+                0x000000000604eda4                screen_imapsl
+                0x000000000604edbc                screen_imapsofs
+                0x000000000604edc4                screen_imaptext_amazon
+                0x000000000604ef00                screen_imaptext_egypt
+                0x000000000604f01c                screen_imaptext_castle
+                0x000000000604f138                screen_imaptext_missile
+                0x000000000604f234                screen_imaptext_muchlater
+                0x000000000604f350                screen_imainhoft
+                0x000000000604f3b4                screen_imainrdt
+                0x000000000604f418                screen_congrats
+                0x000000000604f47c                screen_imaincdc
+                0x000000000604f4c0                screen_gameovertxt
+                0x000000000604f4e8                screen_pausedtxt
+ .data.align1   0x000000000604f50c     0x3c94 src/dat_maps.o
+                0x000000000604f50c                map_connect
+                0x000000000604f770                map_bnums
+                0x0000000006051748                map_blocks
+                0x0000000006052748                map_marks
+                0x0000000006053180                map_eflg_c
+ .data.align1   0x00000000060531a0      0x9b8 src/dat_ents.o
+                0x00000000060531a0                ent_sprseq
+                0x0000000006053228                ent_mvstep
+ .data.align1   0x0000000006053b58        0x8 src/draw.o
+ .data.align1   0x0000000006053b60        0x8 src/syskbd.o
+                0x0000000006053b60                syskbd_up
+                0x0000000006053b61                syskbd_down
+                0x0000000006053b62                syskbd_left
+                0x0000000006053b63                syskbd_right
+                0x0000000006053b64                syskbd_pause
+                0x0000000006053b65                syskbd_end
+                0x0000000006053b66                syskbd_xtra
+                0x0000000006053b67                syskbd_fire
+ .data.align1   0x0000000006053b68       0x40 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-locale.o)
+
+.data.align2    0x0000000006053bb0      0x520
+ .data.align2   0x0000000006053bb0       0xb8 src/dat_screens.o
+                0x0000000006053bb0                screen_imapsteps
+ .data.align2   0x0000000006053c68      0x178 src/dat_maps.o
+                0x0000000006053c68                map_submaps
+ .data.align2   0x0000000006053de0      0x2e4 src/dat_ents.o
+                0x0000000006053de0                ent_entdata
+
+.bss            0x00000000060540d0     0x12d4
+                0x00000000060540d0                __bstart = .
+ *(.bss)
+ .bss           0x00000000060540d0       0x28 src/saturn.o
+                0x00000000060540d0                previouscount
+                0x00000000060540d4                cdir
+ .bss           0x00000000060540f8        0x0 src/workarea.o
+ .bss           0x00000000060540f8        0x2 src/scr_xrick.o
+ .bss           0x00000000060540fa        0x0 src/scr_pause.o
+ *fill*         0x00000000060540fa        0x2 00
+ .bss           0x00000000060540fc        0x8 src/scr_imain.o
+ .bss           0x0000000006054104       0x18 src/scr_imap.o
+ .bss           0x000000000605411c        0x8 src/scr_gameover.o
+ .bss           0x0000000006054124       0x18 src/scr_getname.o
+ .bss           0x000000000605413c        0x0 src/dat_picsST.o
+ .bss           0x000000000605413c        0x0 src/dat_screens.o
+ .bss           0x000000000605413c        0x0 src/dat_tilesST.o
+ .bss           0x000000000605413c        0x0 src/dat_maps.o
+ .bss           0x000000000605413c        0x0 src/dat_ents.o
+ .bss           0x000000000605413c        0x0 src/dat_spritesST.o
+ .bss           0x000000000605413c        0x8 src/ents.o
+                0x000000000605413c                ent_rects
+ .bss           0x0000000006054144        0x0 src/e_bullet.o
+ .bss           0x0000000006054144        0x0 src/e_bomb.o
+ .bss           0x0000000006054144       0x14 src/e_rick.o
+                0x0000000006054144                e_rick_stop_x
+                0x0000000006054146                e_rick_stop_y
+                0x0000000006054148                e_rick_state
+ .bss           0x0000000006054158        0x4 src/e_sbonus.o
+                0x0000000006054158                e_sbonus_counting
+                0x0000000006054159                e_sbonus_counter
+                0x000000000605415a                e_sbonus_bonus
+ .bss           0x000000000605415c        0xc src/e_them.o
+                0x000000000605415c                e_them_rndseed
+ .bss           0x0000000006054168        0x0 src/e_bonus.o
+ .bss           0x0000000006054168        0x0 src/e_box.o
+ .bss           0x0000000006054168        0x0 src/rects.o
+ .bss           0x0000000006054168        0x0 src/util.o
+ .bss           0x0000000006054168        0x0 src/xrick.o
+ .bss           0x0000000006054168        0x4 src/draw.o
+ .bss           0x000000000605416c        0x0 src/maps.o
+ .bss           0x000000000605416c      0x400 src/sysvid.o
+ .bss           0x000000000605456c        0x0 src/syskbd.o
+ .bss           0x000000000605456c        0x2 src/control.o
+                0x000000000605456c                control_status
+                0x000000000605456d                control_last
+ *fill*         0x000000000605456e        0x2 00
+ .bss           0x0000000006054570        0x4 src/system.o
+ .bss           0x0000000006054574        0x3 src/scroller.o
+ *fill*         0x0000000006054577        0x1 00
+ .bss           0x0000000006054578        0x6 src/sysevt.o
+ .bss           0x000000000605457e        0x0 src/syssnd.o
+ .bss           0x000000000605457e        0x0 src/dat_snd.o
+ *fill*         0x000000000605457e        0x2 00
+ .bss           0x0000000006054580       0x28 src/game.o
+                0x0000000006054580                game_period
+                0x0000000006054581                game_waitevt
+                0x0000000006054584                game_rects
+                0x0000000006054588                game_lives
+                0x0000000006054589                game_bombs
+                0x000000000605458a                game_bullets
+                0x000000000605458c                game_score
+                0x0000000006054590                game_map
+                0x0000000006054592                game_submap
+                0x0000000006054594                game_dir
+                0x0000000006054595                game_chsm
+                0x0000000006054596                game_cheat1
+                0x0000000006054597                game_cheat2
+                0x0000000006054598                game_cheat3
+ .bss           0x00000000060545a8        0x0 l:/saturn/SBL6/SEGALIB/GFS/elf/gfs2.o
+ .bss           0x00000000060545a8        0x0 l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_cdb2.o
+ .bss           0x00000000060545a8        0x0 l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_cdc2.o
+ .bss           0x00000000060545a8        0x0 l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_cdf2.o
+ .bss           0x00000000060545a8        0x0 l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_trn2.o
+ .bss           0x00000000060545a8        0x0 l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_buf2.o
+ .bss           0x00000000060545a8        0x0 l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_dir2.o
+ .bss           0x00000000060545a8        0x0 L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_bif.o)
+ .bss           0x00000000060545a8        0x0 L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_bio.o)
+ .bss           0x00000000060545a8        0x0 L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_cfs.o)
+ .bss           0x00000000060545a8        0x0 L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_cmn.o)
+ .bss           0x00000000060545a8        0x0 L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_dev.o)
+ .bss           0x00000000060545a8        0x0 L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_drv.o)
+ .bss           0x00000000060545a8        0x2 L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_reg.o)
+                0x00000000060545a8                hirq_flag
+ .bss           0x00000000060545aa        0x0 L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_sel.o)
+ .bss           0x00000000060545aa        0x0 L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_sub.o)
+ *fill*         0x00000000060545aa        0x6 00
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB001.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB002.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB015.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB061.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB071.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB200.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglD20.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglF15.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglF16.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglF27.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglG00.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglG02.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglG21.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglG22.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglG25.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglH00.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglH02.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglH04.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglI01.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglIc0.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ00.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ01.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ02.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ03.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ04.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglJ05.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglK01.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglM01.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglA00.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglA20.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB000.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB010.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB011.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB012.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglB035.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglC00.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglD00.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglD01.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglD02.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglF25.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglI00.o)
+ .bss           0x00000000060545b0        0x0 C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A(sglH03.o)
+ .bss           0x00000000060545b0        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_ashiftrt.o)
+ .bss           0x00000000060545b0        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_ashiftrt_n.o)
+ .bss           0x00000000060545b0        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_ashiftlt.o)
+ .bss           0x00000000060545b0        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_movmem.o)
+ .bss           0x00000000060545b0        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_add_sub_sf3.o)
+ .bss           0x00000000060545b0        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_mulsf3.o)
+ .bss           0x00000000060545b0        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_divsf3.o)
+ .bss           0x00000000060545b0        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_fixunssfsi.o)
+ .bss           0x00000000060545b0        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_floatunssisf.o)
+ .bss           0x00000000060545b0        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_floatsisf.o)
+ .bss           0x00000000060545b0        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc-Os-4-200.a(udivsi3_i4i-Os-4-200.o)
+ .bss           0x00000000060545b0        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-malloc.o)
+ .bss           0x00000000060545b0       0x34 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-mallocr.o)
+                0x00000000060545b0                __malloc_top_pad
+                0x00000000060545b4                __malloc_max_sbrked_mem
+                0x00000000060545b8                __malloc_max_total_mem
+                0x00000000060545bc                __malloc_current_mallinfo
+ .bss           0x00000000060545e4        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-memcpy.o)
+ .bss           0x00000000060545e4        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-memset.o)
+ .bss           0x00000000060545e4        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-mlock.o)
+ .bss           0x00000000060545e4        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-sbrkr.o)
+ .bss           0x00000000060545e4        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-sprintf.o)
+ .bss           0x00000000060545e4        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-strcpy.o)
+ .bss           0x00000000060545e4        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-strlen.o)
+ .bss           0x00000000060545e4        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-strncmp.o)
+ .bss           0x00000000060545e4        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-strncpy.o)
+ .bss           0x00000000060545e4        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-svfprintf.o)
+ .bss           0x00000000060545e4        0x4 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-syscalls.o)
+ .bss           0x00000000060545e8        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-toupper.o)
+ .bss           0x00000000060545e8        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-trap.o)
+ .bss           0x00000000060545e8        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-abort.o)
+ .bss           0x00000000060545e8        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-ctype_.o)
+ .bss           0x00000000060545e8        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-dtoa.o)
+ .bss           0x00000000060545e8        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-freer.o)
+ .bss           0x00000000060545e8        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-impure.o)
+ .bss           0x00000000060545e8        0xc l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-locale.o)
+                0x00000000060545e8                __nlocale_changed
+                0x00000000060545ec                __mlocale_changed
+                0x00000000060545f0                _PathLocale
+ .bss           0x00000000060545f4        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-memchr.o)
+ .bss           0x00000000060545f4        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-mprec.o)
+ .bss           0x00000000060545f4        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-s_fpclassify.o)
+ .bss           0x00000000060545f4        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-signal.o)
+ .bss           0x00000000060545f4        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-signalr.o)
+ .bss           0x00000000060545f4        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-strcmp.o)
+ .bss           0x00000000060545f4        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-svfiprintf.o)
+ .bss           0x00000000060545f4        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-callocr.o)
+ .bss           0x00000000060545f4        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-memmove.o)
+ .bss           0x00000000060545f4        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-reallocr.o)
+ .bss           0x00000000060545f4        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_lshiftrt.o)
+ .bss           0x00000000060545f4        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_nedf2.o)
+ .bss           0x00000000060545f4        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_gtdf2t.o)
+ .bss           0x00000000060545f4        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_gedf2f.o)
+ .bss           0x00000000060545f4        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_muldf3.o)
+ .bss           0x00000000060545f4        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_add_sub_df3.o)
+ .bss           0x00000000060545f4        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_divdf3.o)
+ .bss           0x00000000060545f4        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_fixdfsi.o)
+ .bss           0x00000000060545f4        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_floatunssidf.o)
+ .bss           0x00000000060545f4        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_floatsidf.o)
+ .bss           0x00000000060545f4        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_udivdi3.o)
+ .bss           0x00000000060545f4        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_umoddi3.o)
+ .bss           0x00000000060545f4        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_udiv_qrnnd_16.o)
+ .bss           0x00000000060545f4        0x0 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_clz.o)
+ *(COMMON)
+ COMMON         0x00000000060545f4      0x350 src/saturn.o
+                0x00000000060545f4                dir_name
+                0x00000000060548f4                m_dat
+ COMMON         0x0000000006054944       0xc8 src/workarea.o
+                0x0000000006054944                RemainEvent
+                0x0000000006054948                RemainWork
+                0x000000000605494c                WorkBuf
+                0x000000000605498c                EventBuf
+ COMMON         0x0000000006054a0c      0x256 src/ents.o
+                0x0000000006054a0c                ent_ents
+ COMMON         0x0000000006054c62        0x6 src/e_bullet.o
+                0x0000000006054c62                e_bullet_yc
+                0x0000000006054c64                e_bullet_offsx
+                0x0000000006054c66                e_bullet_xc
+ COMMON         0x0000000006054c68        0x5 src/e_bomb.o
+                0x0000000006054c68                e_bomb_xc
+                0x0000000006054c69                e_bomb_lethal
+                0x0000000006054c6a                e_bomb_yc
+                0x0000000006054c6c                e_bomb_ticker
+ *fill*         0x0000000006054c6d        0x3 00
+ COMMON         0x0000000006054c70        0x5 src/draw.o
+                0x0000000006054c70                draw_tllst
+                0x0000000006054c74                draw_tilesBank
+ *fill*         0x0000000006054c75        0x3 00
+ COMMON         0x0000000006054c78      0x682 src/maps.o
+                0x0000000006054c78                map_map
+                0x00000000060551f8                map_eflg
+                0x00000000060552f8                map_frow
+                0x00000000060552f9                map_tilesBank
+ *fill*         0x00000000060552fa        0x2 00
+ COMMON         0x00000000060552fc        0x4 src/sysvid.o
+                0x00000000060552fc                sysvid_fb
+ COMMON         0x0000000006055300       0x30 src/dat_snd.o
+                0x0000000006055300                WAV_DDDING
+                0x0000000006055304                WAV_BOX
+                0x0000000006055308                WAV_BONUS
+                0x000000000605530c                WAV_WALK
+                0x0000000006055310                WAV_SEGA
+                0x0000000006055314                WAV_BOMBSHHT
+                0x0000000006055318                WAV_JUMP
+                0x000000000605531c                WAV_SHHT
+                0x0000000006055320                WAV_BULLET
+                0x0000000006055324                WAV_TING
+                0x0000000006055328                WAV_BOMB
+                0x000000000605532c                WAV_WAA
+ COMMON         0x0000000006055330       0x4c src/game.o
+                0x0000000006055330                WAV_ENTITY
+                0x0000000006055358                WAV_STICK
+                0x000000000605535c                WAV_CRAWL
+                0x0000000006055360                WAV_SBONUS2
+                0x0000000006055364                WAV_SBONUS1
+                0x0000000006055368                music_snd
+                0x000000000605536c                WAV_PAD
+                0x0000000006055370                WAV_DIE
+                0x0000000006055374                WAV_GAMEOVER
+                0x0000000006055378                WAV_EXPLODE
+ COMMON         0x000000000605537c        0x4 l:/saturn/SBL6/SEGALIB/GFS/elf/gfs2.o
+                0x000000000605537c                gfs_mng_ptr
+ COMMON         0x0000000006055380        0xc l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_cdc2.o
+                0x0000000006055380                gfcd_fatal_err
+                0x0000000006055384                gfcd_work
+                0x0000000006055388                gfcd_playflag
+ COMMON         0x000000000605538c        0x8 l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_cdf2.o
+                0x000000000605538c                gfcf_fad
+                0x0000000006055390                gfcf_stat
+ COMMON         0x0000000006055394        0xc L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_sub.o)
+                0x0000000006055394                cd_stat
+ COMMON         0x00000000060553a0        0x4 l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-syscalls.o)
+                0x00000000060553a0                errno
+                0x00000000060553a4                __bend = .
+                0x00000000060553a4                _end = .
+LOAD src/saturn.o
+LOAD src/workarea.o
+LOAD src/scr_xrick.o
+LOAD src/scr_pause.o
+LOAD src/scr_imain.o
+LOAD src/scr_imap.o
+LOAD src/scr_gameover.o
+LOAD src/scr_getname.o
+LOAD src/dat_picsST.o
+LOAD src/dat_screens.o
+LOAD src/dat_tilesST.o
+LOAD src/dat_maps.o
+LOAD src/dat_ents.o
+LOAD src/dat_spritesST.o
+LOAD src/ents.o
+LOAD src/e_bullet.o
+LOAD src/e_bomb.o
+LOAD src/e_rick.o
+LOAD src/e_sbonus.o
+LOAD src/e_them.o
+LOAD src/e_bonus.o
+LOAD src/e_box.o
+LOAD src/rects.o
+LOAD src/util.o
+LOAD src/xrick.o
+LOAD src/draw.o
+LOAD src/maps.o
+LOAD src/sysvid.o
+LOAD src/syskbd.o
+LOAD src/control.o
+LOAD src/system.o
+LOAD src/scroller.o
+LOAD src/sysevt.o
+LOAD src/syssnd.o
+LOAD src/dat_snd.o
+LOAD src/game.o
+LOAD l:/saturn/SBL6/SEGALIB/GFS/elf/gfs2.o
+LOAD l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_cdb2.o
+LOAD l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_cdc2.o
+LOAD l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_cdf2.o
+LOAD l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_trn2.o
+LOAD l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_buf2.o
+LOAD l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_dir2.o
+LOAD L:/saturn/dev/sms_asm3/cdc/cdcrep.a
+LOAD C:/SaturnOrbit/SGL_302j/LIB_ELF/LIBSGL.A
+LOAD l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a
+LOAD l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc-Os-4-200.a
+LOAD l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a
+LOAD l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a
+LOAD l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc-Os-4-200.a
+OUTPUT(root/sl.coff coff-sh)
+
+.comment        0x0000000000000000      0x910
+ .comment       0x0000000000000000       0x1d src/saturn.o
+ .comment       0x000000000000001d       0x1d src/workarea.o
+ .comment       0x000000000000003a       0x1d src/scr_xrick.o
+ .comment       0x0000000000000057       0x1d src/scr_pause.o
+ .comment       0x0000000000000074       0x1d src/scr_imain.o
+ .comment       0x0000000000000091       0x1d src/scr_imap.o
+ .comment       0x00000000000000ae       0x1d src/scr_gameover.o
+ .comment       0x00000000000000cb       0x1d src/scr_getname.o
+ .comment       0x00000000000000e8       0x1d src/dat_picsST.o
+ .comment       0x0000000000000105       0x1d src/dat_screens.o
+ .comment       0x0000000000000122       0x1d src/dat_tilesST.o
+ .comment       0x000000000000013f       0x1d src/dat_maps.o
+ .comment       0x000000000000015c       0x1d src/dat_ents.o
+ .comment       0x0000000000000179       0x1d src/dat_spritesST.o
+ .comment       0x0000000000000196       0x1d src/ents.o
+ .comment       0x00000000000001b3       0x1d src/e_bullet.o
+ .comment       0x00000000000001d0       0x1d src/e_bomb.o
+ .comment       0x00000000000001ed       0x1d src/e_rick.o
+ .comment       0x000000000000020a       0x1d src/e_sbonus.o
+ .comment       0x0000000000000227       0x1d src/e_them.o
+ .comment       0x0000000000000244       0x1d src/e_bonus.o
+ .comment       0x0000000000000261       0x1d src/e_box.o
+ .comment       0x000000000000027e       0x1d src/rects.o
+ .comment       0x000000000000029b       0x1d src/util.o
+ .comment       0x00000000000002b8       0x1d src/xrick.o
+ .comment       0x00000000000002d5       0x1d src/draw.o
+ .comment       0x00000000000002f2       0x1d src/maps.o
+ .comment       0x000000000000030f       0x1d src/sysvid.o
+ .comment       0x000000000000032c       0x1d src/syskbd.o
+ .comment       0x0000000000000349       0x1d src/control.o
+ .comment       0x0000000000000366       0x1d src/system.o
+ .comment       0x0000000000000383       0x1d src/scroller.o
+ .comment       0x00000000000003a0       0x1d src/sysevt.o
+ .comment       0x00000000000003bd       0x1d src/syssnd.o
+ .comment       0x00000000000003da       0x1d src/dat_snd.o
+ .comment       0x00000000000003f7       0x1d src/game.o
+ .comment       0x0000000000000414       0x1d l:/saturn/SBL6/SEGALIB/GFS/elf/gfs2.o
+ .comment       0x0000000000000431       0x1d l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_cdb2.o
+ .comment       0x000000000000044e       0x1d l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_cdc2.o
+ .comment       0x000000000000046b       0x1d l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_cdf2.o
+ .comment       0x0000000000000488       0x1d l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_trn2.o
+ .comment       0x00000000000004a5       0x1d l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_buf2.o
+ .comment       0x00000000000004c2       0x1d l:/saturn/SBL6/SEGALIB/GFS/elf/gfs_dir2.o
+ .comment       0x00000000000004df       0x1c L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_bif.o)
+ .comment       0x00000000000004fb       0x1c L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_bio.o)
+ .comment       0x0000000000000517       0x1c L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_cfs.o)
+ .comment       0x0000000000000533       0x1c L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_cmn.o)
+ .comment       0x000000000000054f       0x1c L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_dev.o)
+ .comment       0x000000000000056b       0x1c L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_drv.o)
+ .comment       0x0000000000000587       0x1c L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_reg.o)
+ .comment       0x00000000000005a3       0x1c L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_sel.o)
+ .comment       0x00000000000005bf       0x1c L:/saturn/dev/sms_asm3/cdc/cdcrep.a(cdc_sub.o)
+ .comment       0x00000000000005db       0x1d l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-malloc.o)
+ .comment       0x00000000000005f8       0x1d l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-mallocr.o)
+ .comment       0x0000000000000615       0x1d l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-mlock.o)
+ .comment       0x0000000000000632       0x1d l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-sbrkr.o)
+ .comment       0x000000000000064f       0x1d l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-sprintf.o)
+ .comment       0x000000000000066c       0x1d l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-strncmp.o)
+ .comment       0x0000000000000689       0x1d l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-strncpy.o)
+ .comment       0x00000000000006a6       0x1d l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-svfprintf.o)
+ .comment       0x00000000000006c3       0x1d l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-syscalls.o)
+ .comment       0x00000000000006e0       0x1d l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-toupper.o)
+ .comment       0x00000000000006fd       0x1d l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-abort.o)
+ .comment       0x000000000000071a       0x1d l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-ctype_.o)
+ .comment       0x0000000000000737       0x1d l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-dtoa.o)
+ .comment       0x0000000000000754       0x1d l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-freer.o)
+ .comment       0x0000000000000771       0x1d l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-impure.o)
+ .comment       0x000000000000078e       0x1d l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-locale.o)
+ .comment       0x00000000000007ab       0x1d l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-memchr.o)
+ .comment       0x00000000000007c8       0x1d l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-mprec.o)
+ .comment       0x00000000000007e5       0x1d l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-s_fpclassify.o)
+ .comment       0x0000000000000802       0x1d l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-signal.o)
+ .comment       0x000000000000081f       0x1d l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-signalr.o)
+ .comment       0x000000000000083c       0x1d l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-svfiprintf.o)
+ .comment       0x0000000000000859       0x1d l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-callocr.o)
+ .comment       0x0000000000000876       0x1d l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-memmove.o)
+ .comment       0x0000000000000893       0x1d l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/../../../../sh-elf/lib/m2\libc.a(lib_a-reallocr.o)
+ .comment       0x00000000000008b0       0x1d l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_udivdi3.o)
+ .comment       0x00000000000008cd       0x1d l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_umoddi3.o)
+ .comment       0x00000000000008ea       0x1d l:/gnushv11/sh-elf/bin/../lib/gcc/sh-elf/4.5-GNUSH_v11.01/m2\libgcc.a(_clz.o)
